@@ -1,0 +1,1000 @@
+{"instruction": "Update susan's email to susan@example.com", "output": {"type": "update", "action": "update", "name": "susan", "email": "susan@example.com"}}
+{"instruction": "Update caixintong's email to caixintong@company.com", "output": {"type": "update", "action": "update", "name": "caixintong", "email": "caixintong@company.com"}}
+{"instruction": "Update caixintong's email to caixintong@company.com", "output": {"type": "update", "action": "update", "name": "caixintong", "email": "caixintong@company.com"}}
+{"instruction": "Add tom with email tom@example.com", "output": {"type": "update", "action": "add", "name": "tom", "email": "tom@example.com"}}
+{"instruction": "Add linda with email linda@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "linda", "email": "linda@gs.ncku.edu.tw"}}
+{"instruction": "Send mike an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "mike@student.ncku.edu.tw", "subject": "Project kickoff", "body": "Looking forward to your reply."}}
+{"instruction": "Send jim an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "jim@gs.ncku.edu.tw", "subject": "Reschedule request", "body": "Can we move to next Monday?"}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@example.com"}}
+{"instruction": "Send tom an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "tom@gs.ncku.edu.tw", "subject": "Meeting tomorrow", "body": "Appreciate your help on this."}}
+{"instruction": "Send sarah an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "sarah@student.ncku.edu.tw", "subject": "Thanks", "body": "Appreciate your help on this."}}
+{"instruction": "Send susan an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "susan@company.com", "subject": "Meeting tomorrow", "body": "Can we move to next Monday?"}}
+{"instruction": "Delete jim from contacts", "output": {"type": "update", "action": "delete", "name": "jim", "email": "jim@company.com"}}
+{"instruction": "Add kevin with email kevin@example.com", "output": {"type": "update", "action": "add", "name": "kevin", "email": "kevin@example.com"}}
+{"instruction": "Update alice's email to alice@gmail.com", "output": {"type": "update", "action": "update", "name": "alice", "email": "alice@gmail.com"}}
+{"instruction": "Delete mike from contacts", "output": {"type": "update", "action": "delete", "name": "mike", "email": "mike@gs.ncku.edu.tw"}}
+{"instruction": "Add tom with email tom@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "tom", "email": "tom@gs.ncku.edu.tw"}}
+{"instruction": "Delete bob from contacts", "output": {"type": "update", "action": "delete", "name": "bob", "email": "bob@student.ncku.edu.tw"}}
+{"instruction": "Delete sarah from contacts", "output": {"type": "update", "action": "delete", "name": "sarah", "email": "sarah@example.com"}}
+{"instruction": "Delete tom from contacts", "output": {"type": "update", "action": "delete", "name": "tom", "email": "tom@student.ncku.edu.tw"}}
+{"instruction": "Send alice an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "alice@student.ncku.edu.tw", "subject": "Agenda attached", "body": "Can we move to next Monday?"}}
+{"instruction": "Add jim with email jim@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@gs.ncku.edu.tw"}}
+{"instruction": "Update mike's email to mike@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "mike", "email": "mike@gs.ncku.edu.tw"}}
+{"instruction": "Update mike's email to mike@gmail.com", "output": {"type": "update", "action": "update", "name": "mike", "email": "mike@gmail.com"}}
+{"instruction": "Update caixintong's email to caixintong@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "caixintong", "email": "caixintong@student.ncku.edu.tw"}}
+{"instruction": "Send jim an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "jim@student.ncku.edu.tw", "subject": "Thanks", "body": "Let's touch base at noon."}}
+{"instruction": "Send sarah an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "sarah@student.ncku.edu.tw", "subject": "Check-in", "body": "Let's touch base at noon."}}
+{"instruction": "Update kevin's email to kevin@gmail.com", "output": {"type": "update", "action": "update", "name": "kevin", "email": "kevin@gmail.com"}}
+{"instruction": "Send tom an email saying We have started the project.", "output": {"type": "email", "receiver": "tom@company.com", "subject": "Project kickoff", "body": "We have started the project."}}
+{"instruction": "Delete kevin from contacts", "output": {"type": "update", "action": "delete", "name": "kevin", "email": "kevin@example.com"}}
+{"instruction": "Send caixintong an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "caixintong@gs.ncku.edu.tw", "subject": "Reschedule request", "body": "Looking forward to your reply."}}
+{"instruction": "Add sarah with email sarah@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "sarah", "email": "sarah@student.ncku.edu.tw"}}
+{"instruction": "Add linda with email linda@gmail.com", "output": {"type": "update", "action": "add", "name": "linda", "email": "linda@gmail.com"}}
+{"instruction": "Send caixintong an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "caixintong@company.com", "subject": "PR approved", "body": "Appreciate your help on this."}}
+{"instruction": "Update alice's email to alice@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "alice", "email": "alice@gs.ncku.edu.tw"}}
+{"instruction": "Update linda's email to linda@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "linda", "email": "linda@student.ncku.edu.tw"}}
+{"instruction": "Send linda an email saying Please review the agenda.", "output": {"type": "email", "receiver": "linda@company.com", "subject": "Project kickoff", "body": "Please review the agenda."}}
+{"instruction": "Send susan an email saying We have started the project.", "output": {"type": "email", "receiver": "susan@gmail.com", "subject": "Reschedule request", "body": "We have started the project."}}
+{"instruction": "Send jim an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "jim@company.com", "subject": "Follow-up", "body": "Let's meet at 10am."}}
+{"instruction": "Send sarah an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "sarah@student.ncku.edu.tw", "subject": "Meeting tomorrow", "body": "Let's touch base at noon."}}
+{"instruction": "Delete sarah from contacts", "output": {"type": "update", "action": "delete", "name": "sarah", "email": "sarah@gs.ncku.edu.tw"}}
+{"instruction": "Add tom with email tom@example.com", "output": {"type": "update", "action": "add", "name": "tom", "email": "tom@example.com"}}
+{"instruction": "Delete tom from contacts", "output": {"type": "update", "action": "delete", "name": "tom", "email": "tom@gmail.com"}}
+{"instruction": "Send susan an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "susan@example.com", "subject": "Check-in", "body": "Looking forward to your reply."}}
+{"instruction": "Add bob with email bob@company.com", "output": {"type": "update", "action": "add", "name": "bob", "email": "bob@company.com"}}
+{"instruction": "Update alice's email to alice@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "alice", "email": "alice@gs.ncku.edu.tw"}}
+{"instruction": "Delete linda from contacts", "output": {"type": "update", "action": "delete", "name": "linda", "email": "linda@gs.ncku.edu.tw"}}
+{"instruction": "Send alice an email saying Great to have you with us.", "output": {"type": "email", "receiver": "alice@gs.ncku.edu.tw", "subject": "PR approved", "body": "Great to have you with us."}}
+{"instruction": "Add mike with email mike@company.com", "output": {"type": "update", "action": "add", "name": "mike", "email": "mike@company.com"}}
+{"instruction": "Update linda's email to linda@company.com", "output": {"type": "update", "action": "update", "name": "linda", "email": "linda@company.com"}}
+{"instruction": "Send susan an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "susan@example.com", "subject": "Thanks", "body": "Appreciate your help on this."}}
+{"instruction": "Update sarah's email to sarah@gmail.com", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@gmail.com"}}
+{"instruction": "Send susan an email saying Please review the agenda.", "output": {"type": "email", "receiver": "susan@gmail.com", "subject": "Agenda attached", "body": "Please review the agenda."}}
+{"instruction": "Send susan an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "susan@gs.ncku.edu.tw", "subject": "Check-in", "body": "Don't forget the deadline."}}
+{"instruction": "Add jim with email jim@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@student.ncku.edu.tw"}}
+{"instruction": "Send caixintong an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "caixintong@example.com", "subject": "PR approved", "body": "Let's touch base at noon."}}
+{"instruction": "Update linda's email to linda@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "linda", "email": "linda@gs.ncku.edu.tw"}}
+{"instruction": "Delete bob from contacts", "output": {"type": "update", "action": "delete", "name": "bob", "email": "bob@gs.ncku.edu.tw"}}
+{"instruction": "Send bob an email saying Great to have you with us.", "output": {"type": "email", "receiver": "bob@example.com", "subject": "Follow-up", "body": "Great to have you with us."}}
+{"instruction": "Send mike an email saying We have started the project.", "output": {"type": "email", "receiver": "mike@gs.ncku.edu.tw", "subject": "Reminder", "body": "We have started the project."}}
+{"instruction": "Send bob an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "bob@example.com", "subject": "Meeting tomorrow", "body": "Let's touch base at noon."}}
+{"instruction": "Send alice an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "alice@gs.ncku.edu.tw", "subject": "Reschedule request", "body": "Your PR is approved, great work!"}}
+{"instruction": "Update alice's email to alice@example.com", "output": {"type": "update", "action": "update", "name": "alice", "email": "alice@example.com"}}
+{"instruction": "Send linda an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "linda@gmail.com", "subject": "Project kickoff", "body": "Let's meet at 10am."}}
+{"instruction": "Add bob with email bob@example.com", "output": {"type": "update", "action": "add", "name": "bob", "email": "bob@example.com"}}
+{"instruction": "Delete alice from contacts", "output": {"type": "update", "action": "delete", "name": "alice", "email": "alice@student.ncku.edu.tw"}}
+{"instruction": "Send linda an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "linda@gmail.com", "subject": "Thanks", "body": "Let's touch base at noon."}}
+{"instruction": "Send alice an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "alice@student.ncku.edu.tw", "subject": "Follow-up", "body": "Appreciate your help on this."}}
+{"instruction": "Send sarah an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "sarah@company.com", "subject": "PR approved", "body": "Don't forget the deadline."}}
+{"instruction": "Send kevin an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "kevin@example.com", "subject": "Thanks", "body": "Can we move to next Monday?"}}
+{"instruction": "Add caixintong with email caixintong@example.com", "output": {"type": "update", "action": "add", "name": "caixintong", "email": "caixintong@example.com"}}
+{"instruction": "Send bob an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "bob@gs.ncku.edu.tw", "subject": "Agenda attached", "body": "Let's touch base at noon."}}
+{"instruction": "Send susan an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "susan@student.ncku.edu.tw", "subject": "Agenda attached", "body": "Can we move to next Monday?"}}
+{"instruction": "Send kevin an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "kevin@company.com", "subject": "Check-in", "body": "Appreciate your help on this."}}
+{"instruction": "Send kevin an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "kevin@gmail.com", "subject": "Project kickoff", "body": "Let's touch base at noon."}}
+{"instruction": "Delete alice from contacts", "output": {"type": "update", "action": "delete", "name": "alice", "email": "alice@gs.ncku.edu.tw"}}
+{"instruction": "Send kevin an email saying We have started the project.", "output": {"type": "email", "receiver": "kevin@student.ncku.edu.tw", "subject": "PR approved", "body": "We have started the project."}}
+{"instruction": "Update sarah's email to sarah@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@student.ncku.edu.tw"}}
+{"instruction": "Delete linda from contacts", "output": {"type": "update", "action": "delete", "name": "linda", "email": "linda@gs.ncku.edu.tw"}}
+{"instruction": "Add susan with email susan@example.com", "output": {"type": "update", "action": "add", "name": "susan", "email": "susan@example.com"}}
+{"instruction": "Add susan with email susan@gmail.com", "output": {"type": "update", "action": "add", "name": "susan", "email": "susan@gmail.com"}}
+{"instruction": "Send tom an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "tom@student.ncku.edu.tw", "subject": "PR approved", "body": "Let's meet at 10am."}}
+{"instruction": "Send alice an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "alice@example.com", "subject": "Follow-up", "body": "Let's touch base at noon."}}
+{"instruction": "Send kevin an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "kevin@student.ncku.edu.tw", "subject": "Welcome aboard", "body": "Don't forget the deadline."}}
+{"instruction": "Send linda an email saying Great to have you with us.", "output": {"type": "email", "receiver": "linda@company.com", "subject": "Check-in", "body": "Great to have you with us."}}
+{"instruction": "Add jim with email jim@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@student.ncku.edu.tw"}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@gs.ncku.edu.tw"}}
+{"instruction": "Delete jim from contacts", "output": {"type": "update", "action": "delete", "name": "jim", "email": "jim@company.com"}}
+{"instruction": "Delete alice from contacts", "output": {"type": "update", "action": "delete", "name": "alice", "email": "alice@student.ncku.edu.tw"}}
+{"instruction": "Delete kevin from contacts", "output": {"type": "update", "action": "delete", "name": "kevin", "email": "kevin@gs.ncku.edu.tw"}}
+{"instruction": "Send bob an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "bob@gs.ncku.edu.tw", "subject": "Meeting tomorrow", "body": "Don't forget the deadline."}}
+{"instruction": "Update bob's email to bob@example.com", "output": {"type": "update", "action": "update", "name": "bob", "email": "bob@example.com"}}
+{"instruction": "Delete tom from contacts", "output": {"type": "update", "action": "delete", "name": "tom", "email": "tom@gs.ncku.edu.tw"}}
+{"instruction": "Update bob's email to bob@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "bob", "email": "bob@student.ncku.edu.tw"}}
+{"instruction": "Update kevin's email to kevin@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "kevin", "email": "kevin@student.ncku.edu.tw"}}
+{"instruction": "Send kevin an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "kevin@example.com", "subject": "Reminder", "body": "Looking forward to your reply."}}
+{"instruction": "Add mike with email mike@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "mike", "email": "mike@student.ncku.edu.tw"}}
+{"instruction": "Add alice with email alice@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "alice", "email": "alice@student.ncku.edu.tw"}}
+{"instruction": "Send linda an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "linda@student.ncku.edu.tw", "subject": "Thanks", "body": "Your PR is approved, great work!"}}
+{"instruction": "Add tom with email tom@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "tom", "email": "tom@student.ncku.edu.tw"}}
+{"instruction": "Delete bob from contacts", "output": {"type": "update", "action": "delete", "name": "bob", "email": "bob@gs.ncku.edu.tw"}}
+{"instruction": "Send linda an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "linda@gs.ncku.edu.tw", "subject": "Thanks", "body": "Appreciate your help on this."}}
+{"instruction": "Send susan an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "susan@company.com", "subject": "Check-in", "body": "Let's touch base at noon."}}
+{"instruction": "Send alice an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "alice@gmail.com", "subject": "Reminder", "body": "Let's touch base at noon."}}
+{"instruction": "Send bob an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "bob@gmail.com", "subject": "Thanks", "body": "Your PR is approved, great work!"}}
+{"instruction": "Add bob with email bob@gmail.com", "output": {"type": "update", "action": "add", "name": "bob", "email": "bob@gmail.com"}}
+{"instruction": "Add tom with email tom@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "tom", "email": "tom@gs.ncku.edu.tw"}}
+{"instruction": "Send tom an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "tom@example.com", "subject": "Agenda attached", "body": "Appreciate your help on this."}}
+{"instruction": "Send mike an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "mike@student.ncku.edu.tw", "subject": "Project kickoff", "body": "Can we move to next Monday?"}}
+{"instruction": "Send jim an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "jim@company.com", "subject": "Agenda attached", "body": "Appreciate your help on this."}}
+{"instruction": "Add caixintong with email caixintong@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "caixintong", "email": "caixintong@student.ncku.edu.tw"}}
+{"instruction": "Send tom an email saying Great to have you with us.", "output": {"type": "email", "receiver": "tom@company.com", "subject": "Project kickoff", "body": "Great to have you with us."}}
+{"instruction": "Send susan an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "susan@company.com", "subject": "Agenda attached", "body": "Looking forward to your reply."}}
+{"instruction": "Send tom an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "tom@company.com", "subject": "Welcome aboard", "body": "Looking forward to your reply."}}
+{"instruction": "Send jim an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "jim@student.ncku.edu.tw", "subject": "Meeting tomorrow", "body": "Let's touch base at noon."}}
+{"instruction": "Send bob an email saying Great to have you with us.", "output": {"type": "email", "receiver": "bob@company.com", "subject": "Thanks", "body": "Great to have you with us."}}
+{"instruction": "Send tom an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "tom@gmail.com", "subject": "PR approved", "body": "Let's meet at 10am."}}
+{"instruction": "Send tom an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "tom@example.com", "subject": "Reminder", "body": "Don't forget the deadline."}}
+{"instruction": "Add linda with email linda@example.com", "output": {"type": "update", "action": "add", "name": "linda", "email": "linda@example.com"}}
+{"instruction": "Add bob with email bob@gmail.com", "output": {"type": "update", "action": "add", "name": "bob", "email": "bob@gmail.com"}}
+{"instruction": "Add alice with email alice@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "alice", "email": "alice@student.ncku.edu.tw"}}
+{"instruction": "Send jim an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "jim@example.com", "subject": "Agenda attached", "body": "Don't forget the deadline."}}
+{"instruction": "Send caixintong an email saying Great to have you with us.", "output": {"type": "email", "receiver": "caixintong@company.com", "subject": "Project kickoff", "body": "Great to have you with us."}}
+{"instruction": "Send bob an email saying Please review the agenda.", "output": {"type": "email", "receiver": "bob@example.com", "subject": "Follow-up", "body": "Please review the agenda."}}
+{"instruction": "Update susan's email to susan@gmail.com", "output": {"type": "update", "action": "update", "name": "susan", "email": "susan@gmail.com"}}
+{"instruction": "Send kevin an email saying Great to have you with us.", "output": {"type": "email", "receiver": "kevin@company.com", "subject": "Thanks", "body": "Great to have you with us."}}
+{"instruction": "Delete caixintong from contacts", "output": {"type": "update", "action": "delete", "name": "caixintong", "email": "caixintong@gmail.com"}}
+{"instruction": "Send alice an email saying We have started the project.", "output": {"type": "email", "receiver": "alice@gs.ncku.edu.tw", "subject": "Meeting tomorrow", "body": "We have started the project."}}
+{"instruction": "Send linda an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "linda@gmail.com", "subject": "Reschedule request", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send alice an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "alice@gmail.com", "subject": "Thanks", "body": "Can we move to next Monday?"}}
+{"instruction": "Send caixintong an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "caixintong@company.com", "subject": "Check-in", "body": "Looking forward to your reply."}}
+{"instruction": "Delete bob from contacts", "output": {"type": "update", "action": "delete", "name": "bob", "email": "bob@example.com"}}
+{"instruction": "Send mike an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "mike@gs.ncku.edu.tw", "subject": "Reschedule request", "body": "Appreciate your help on this."}}
+{"instruction": "Update sarah's email to sarah@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@student.ncku.edu.tw"}}
+{"instruction": "Add bob with email bob@example.com", "output": {"type": "update", "action": "add", "name": "bob", "email": "bob@example.com"}}
+{"instruction": "Send linda an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "linda@gs.ncku.edu.tw", "subject": "PR approved", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send tom an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "tom@example.com", "subject": "Reminder", "body": "Can we move to next Monday?"}}
+{"instruction": "Update mike's email to mike@gmail.com", "output": {"type": "update", "action": "update", "name": "mike", "email": "mike@gmail.com"}}
+{"instruction": "Send linda an email saying Please review the agenda.", "output": {"type": "email", "receiver": "linda@gs.ncku.edu.tw", "subject": "PR approved", "body": "Please review the agenda."}}
+{"instruction": "Add susan with email susan@example.com", "output": {"type": "update", "action": "add", "name": "susan", "email": "susan@example.com"}}
+{"instruction": "Update sarah's email to sarah@example.com", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@example.com"}}
+{"instruction": "Send mike an email saying Great to have you with us.", "output": {"type": "email", "receiver": "mike@example.com", "subject": "Project kickoff", "body": "Great to have you with us."}}
+{"instruction": "Send susan an email saying We have started the project.", "output": {"type": "email", "receiver": "susan@company.com", "subject": "Check-in", "body": "We have started the project."}}
+{"instruction": "Send mike an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "mike@gmail.com", "subject": "Thanks", "body": "Don't forget the deadline."}}
+{"instruction": "Send kevin an email saying Please review the agenda.", "output": {"type": "email", "receiver": "kevin@student.ncku.edu.tw", "subject": "Thanks", "body": "Please review the agenda."}}
+{"instruction": "Send caixintong an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "caixintong@gmail.com", "subject": "Meeting tomorrow", "body": "Can we move to next Monday?"}}
+{"instruction": "Send mike an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "mike@gmail.com", "subject": "PR approved", "body": "Can we move to next Monday?"}}
+{"instruction": "Send caixintong an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "caixintong@gmail.com", "subject": "Check-in", "body": "Looking forward to your reply."}}
+{"instruction": "Add alice with email alice@company.com", "output": {"type": "update", "action": "add", "name": "alice", "email": "alice@company.com"}}
+{"instruction": "Send jim an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "jim@company.com", "subject": "Thanks", "body": "Can we move to next Monday?"}}
+{"instruction": "Delete jim from contacts", "output": {"type": "update", "action": "delete", "name": "jim", "email": "jim@gs.ncku.edu.tw"}}
+{"instruction": "Send sarah an email saying Great to have you with us.", "output": {"type": "email", "receiver": "sarah@example.com", "subject": "Project kickoff", "body": "Great to have you with us."}}
+{"instruction": "Send susan an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "susan@gmail.com", "subject": "Project kickoff", "body": "Can we move to next Monday?"}}
+{"instruction": "Send caixintong an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "caixintong@gmail.com", "subject": "Reschedule request", "body": "Looking forward to your reply."}}
+{"instruction": "Delete linda from contacts", "output": {"type": "update", "action": "delete", "name": "linda", "email": "linda@gs.ncku.edu.tw"}}
+{"instruction": "Send sarah an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "sarah@example.com", "subject": "Meeting tomorrow", "body": "Can we move to next Monday?"}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@example.com"}}
+{"instruction": "Delete caixintong from contacts", "output": {"type": "update", "action": "delete", "name": "caixintong", "email": "caixintong@company.com"}}
+{"instruction": "Delete linda from contacts", "output": {"type": "update", "action": "delete", "name": "linda", "email": "linda@gs.ncku.edu.tw"}}
+{"instruction": "Send linda an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "linda@gs.ncku.edu.tw", "subject": "PR approved", "body": "Appreciate your help on this."}}
+{"instruction": "Send jim an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "jim@student.ncku.edu.tw", "subject": "Project kickoff", "body": "Can we move to next Monday?"}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@company.com"}}
+{"instruction": "Send mike an email saying We have started the project.", "output": {"type": "email", "receiver": "mike@student.ncku.edu.tw", "subject": "Meeting tomorrow", "body": "We have started the project."}}
+{"instruction": "Update sarah's email to sarah@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@student.ncku.edu.tw"}}
+{"instruction": "Send mike an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "mike@gs.ncku.edu.tw", "subject": "Meeting tomorrow", "body": "Let's meet at 10am."}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@company.com"}}
+{"instruction": "Add kevin with email kevin@gmail.com", "output": {"type": "update", "action": "add", "name": "kevin", "email": "kevin@gmail.com"}}
+{"instruction": "Update jim's email to jim@company.com", "output": {"type": "update", "action": "update", "name": "jim", "email": "jim@company.com"}}
+{"instruction": "Update tom's email to tom@company.com", "output": {"type": "update", "action": "update", "name": "tom", "email": "tom@company.com"}}
+{"instruction": "Update bob's email to bob@company.com", "output": {"type": "update", "action": "update", "name": "bob", "email": "bob@company.com"}}
+{"instruction": "Add susan with email susan@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "susan", "email": "susan@gs.ncku.edu.tw"}}
+{"instruction": "Send tom an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "tom@example.com", "subject": "Thanks", "body": "Don't forget the deadline."}}
+{"instruction": "Update jim's email to jim@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "jim", "email": "jim@student.ncku.edu.tw"}}
+{"instruction": "Send mike an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "mike@student.ncku.edu.tw", "subject": "Reminder", "body": "Let's touch base at noon."}}
+{"instruction": "Update alice's email to alice@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "alice", "email": "alice@student.ncku.edu.tw"}}
+{"instruction": "Send sarah an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "sarah@gs.ncku.edu.tw", "subject": "Reminder", "body": "Can we move to next Monday?"}}
+{"instruction": "Send susan an email saying Great to have you with us.", "output": {"type": "email", "receiver": "susan@student.ncku.edu.tw", "subject": "Reminder", "body": "Great to have you with us."}}
+{"instruction": "Send jim an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "jim@student.ncku.edu.tw", "subject": "Meeting tomorrow", "body": "Let's meet at 10am."}}
+{"instruction": "Send alice an email saying We have started the project.", "output": {"type": "email", "receiver": "alice@example.com", "subject": "Agenda attached", "body": "We have started the project."}}
+{"instruction": "Delete bob from contacts", "output": {"type": "update", "action": "delete", "name": "bob", "email": "bob@gmail.com"}}
+{"instruction": "Add mike with email mike@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "mike", "email": "mike@gs.ncku.edu.tw"}}
+{"instruction": "Send bob an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "bob@company.com", "subject": "Reminder", "body": "Your PR is approved, great work!"}}
+{"instruction": "Delete linda from contacts", "output": {"type": "update", "action": "delete", "name": "linda", "email": "linda@gs.ncku.edu.tw"}}
+{"instruction": "Send tom an email saying We have started the project.", "output": {"type": "email", "receiver": "tom@gs.ncku.edu.tw", "subject": "Follow-up", "body": "We have started the project."}}
+{"instruction": "Update mike's email to mike@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "mike", "email": "mike@student.ncku.edu.tw"}}
+{"instruction": "Send tom an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "tom@gs.ncku.edu.tw", "subject": "Follow-up", "body": "Appreciate your help on this."}}
+{"instruction": "Delete jim from contacts", "output": {"type": "update", "action": "delete", "name": "jim", "email": "jim@gmail.com"}}
+{"instruction": "Send bob an email saying We have started the project.", "output": {"type": "email", "receiver": "bob@gs.ncku.edu.tw", "subject": "PR approved", "body": "We have started the project."}}
+{"instruction": "Update alice's email to alice@gmail.com", "output": {"type": "update", "action": "update", "name": "alice", "email": "alice@gmail.com"}}
+{"instruction": "Send sarah an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "sarah@gmail.com", "subject": "Follow-up", "body": "Can we move to next Monday?"}}
+{"instruction": "Send alice an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "alice@company.com", "subject": "Welcome aboard", "body": "Appreciate your help on this."}}
+{"instruction": "Send kevin an email saying We have started the project.", "output": {"type": "email", "receiver": "kevin@company.com", "subject": "Reminder", "body": "We have started the project."}}
+{"instruction": "Send sarah an email saying Please review the agenda.", "output": {"type": "email", "receiver": "sarah@example.com", "subject": "Reschedule request", "body": "Please review the agenda."}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@company.com"}}
+{"instruction": "Send jim an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "jim@gmail.com", "subject": "Follow-up", "body": "Can we move to next Monday?"}}
+{"instruction": "Add tom with email tom@company.com", "output": {"type": "update", "action": "add", "name": "tom", "email": "tom@company.com"}}
+{"instruction": "Update tom's email to tom@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "tom", "email": "tom@gs.ncku.edu.tw"}}
+{"instruction": "Send tom an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "tom@student.ncku.edu.tw", "subject": "Project kickoff", "body": "Your PR is approved, great work!"}}
+{"instruction": "Delete bob from contacts", "output": {"type": "update", "action": "delete", "name": "bob", "email": "bob@gs.ncku.edu.tw"}}
+{"instruction": "Send tom an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "tom@gmail.com", "subject": "Welcome aboard", "body": "Let's touch base at noon."}}
+{"instruction": "Send susan an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "susan@gmail.com", "subject": "Welcome aboard", "body": "Appreciate your help on this."}}
+{"instruction": "Send sarah an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "sarah@student.ncku.edu.tw", "subject": "Follow-up", "body": "Don't forget the deadline."}}
+{"instruction": "Delete caixintong from contacts", "output": {"type": "update", "action": "delete", "name": "caixintong", "email": "caixintong@example.com"}}
+{"instruction": "Send jim an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "jim@example.com", "subject": "Reschedule request", "body": "Looking forward to your reply."}}
+{"instruction": "Add caixintong with email caixintong@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "caixintong", "email": "caixintong@student.ncku.edu.tw"}}
+{"instruction": "Send linda an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "linda@gmail.com", "subject": "PR approved", "body": "Can we move to next Monday?"}}
+{"instruction": "Delete sarah from contacts", "output": {"type": "update", "action": "delete", "name": "sarah", "email": "sarah@gs.ncku.edu.tw"}}
+{"instruction": "Send tom an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "tom@company.com", "subject": "Reschedule request", "body": "Looking forward to your reply."}}
+{"instruction": "Send tom an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "tom@company.com", "subject": "Thanks", "body": "Let's touch base at noon."}}
+{"instruction": "Send linda an email saying Great to have you with us.", "output": {"type": "email", "receiver": "linda@company.com", "subject": "Follow-up", "body": "Great to have you with us."}}
+{"instruction": "Send sarah an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "sarah@gs.ncku.edu.tw", "subject": "Thanks", "body": "Let's touch base at noon."}}
+{"instruction": "Add jim with email jim@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@student.ncku.edu.tw"}}
+{"instruction": "Send bob an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "bob@company.com", "subject": "Project kickoff", "body": "Can we move to next Monday?"}}
+{"instruction": "Send tom an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "tom@example.com", "subject": "Thanks", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send linda an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "linda@example.com", "subject": "Follow-up", "body": "Let's touch base at noon."}}
+{"instruction": "Add kevin with email kevin@company.com", "output": {"type": "update", "action": "add", "name": "kevin", "email": "kevin@company.com"}}
+{"instruction": "Add alice with email alice@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "alice", "email": "alice@student.ncku.edu.tw"}}
+{"instruction": "Send alice an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "alice@gmail.com", "subject": "Agenda attached", "body": "Don't forget the deadline."}}
+{"instruction": "Send alice an email saying Please review the agenda.", "output": {"type": "email", "receiver": "alice@student.ncku.edu.tw", "subject": "Welcome aboard", "body": "Please review the agenda."}}
+{"instruction": "Add tom with email tom@example.com", "output": {"type": "update", "action": "add", "name": "tom", "email": "tom@example.com"}}
+{"instruction": "Delete kevin from contacts", "output": {"type": "update", "action": "delete", "name": "kevin", "email": "kevin@company.com"}}
+{"instruction": "Send tom an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "tom@gmail.com", "subject": "Meeting tomorrow", "body": "Your PR is approved, great work!"}}
+{"instruction": "Add jim with email jim@gmail.com", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@gmail.com"}}
+{"instruction": "Send tom an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "tom@student.ncku.edu.tw", "subject": "Check-in", "body": "Let's touch base at noon."}}
+{"instruction": "Send tom an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "tom@company.com", "subject": "Welcome aboard", "body": "Let's touch base at noon."}}
+{"instruction": "Add sarah with email sarah@example.com", "output": {"type": "update", "action": "add", "name": "sarah", "email": "sarah@example.com"}}
+{"instruction": "Send mike an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "mike@student.ncku.edu.tw", "subject": "Follow-up", "body": "Appreciate your help on this."}}
+{"instruction": "Send sarah an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "sarah@student.ncku.edu.tw", "subject": "Reminder", "body": "Let's meet at 10am."}}
+{"instruction": "Delete bob from contacts", "output": {"type": "update", "action": "delete", "name": "bob", "email": "bob@gs.ncku.edu.tw"}}
+{"instruction": "Update tom's email to tom@gmail.com", "output": {"type": "update", "action": "update", "name": "tom", "email": "tom@gmail.com"}}
+{"instruction": "Add jim with email jim@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@gs.ncku.edu.tw"}}
+{"instruction": "Update jim's email to jim@gmail.com", "output": {"type": "update", "action": "update", "name": "jim", "email": "jim@gmail.com"}}
+{"instruction": "Add alice with email alice@company.com", "output": {"type": "update", "action": "add", "name": "alice", "email": "alice@company.com"}}
+{"instruction": "Add bob with email bob@gmail.com", "output": {"type": "update", "action": "add", "name": "bob", "email": "bob@gmail.com"}}
+{"instruction": "Add tom with email tom@gmail.com", "output": {"type": "update", "action": "add", "name": "tom", "email": "tom@gmail.com"}}
+{"instruction": "Add caixintong with email caixintong@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "caixintong", "email": "caixintong@gs.ncku.edu.tw"}}
+{"instruction": "Send jim an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "jim@example.com", "subject": "Thanks", "body": "Let's touch base at noon."}}
+{"instruction": "Send linda an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "linda@gs.ncku.edu.tw", "subject": "Reminder", "body": "Can we move to next Monday?"}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@student.ncku.edu.tw"}}
+{"instruction": "Update linda's email to linda@gmail.com", "output": {"type": "update", "action": "update", "name": "linda", "email": "linda@gmail.com"}}
+{"instruction": "Send susan an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "susan@gmail.com", "subject": "Welcome aboard", "body": "Let's touch base at noon."}}
+{"instruction": "Send jim an email saying Great to have you with us.", "output": {"type": "email", "receiver": "jim@student.ncku.edu.tw", "subject": "Reminder", "body": "Great to have you with us."}}
+{"instruction": "Send susan an email saying Great to have you with us.", "output": {"type": "email", "receiver": "susan@student.ncku.edu.tw", "subject": "Agenda attached", "body": "Great to have you with us."}}
+{"instruction": "Send alice an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "alice@gmail.com", "subject": "PR approved", "body": "Let's touch base at noon."}}
+{"instruction": "Send mike an email saying Great to have you with us.", "output": {"type": "email", "receiver": "mike@company.com", "subject": "Project kickoff", "body": "Great to have you with us."}}
+{"instruction": "Send susan an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "susan@company.com", "subject": "Agenda attached", "body": "Let's meet at 10am."}}
+{"instruction": "Delete sarah from contacts", "output": {"type": "update", "action": "delete", "name": "sarah", "email": "sarah@example.com"}}
+{"instruction": "Send sarah an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "sarah@example.com", "subject": "Thanks", "body": "Appreciate your help on this."}}
+{"instruction": "Update linda's email to linda@company.com", "output": {"type": "update", "action": "update", "name": "linda", "email": "linda@company.com"}}
+{"instruction": "Send caixintong an email saying Great to have you with us.", "output": {"type": "email", "receiver": "caixintong@gmail.com", "subject": "Reschedule request", "body": "Great to have you with us."}}
+{"instruction": "Add linda with email linda@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "linda", "email": "linda@gs.ncku.edu.tw"}}
+{"instruction": "Send tom an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "tom@gmail.com", "subject": "Reschedule request", "body": "Your PR is approved, great work!"}}
+{"instruction": "Add bob with email bob@gmail.com", "output": {"type": "update", "action": "add", "name": "bob", "email": "bob@gmail.com"}}
+{"instruction": "Update caixintong's email to caixintong@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "caixintong", "email": "caixintong@gs.ncku.edu.tw"}}
+{"instruction": "Delete sarah from contacts", "output": {"type": "update", "action": "delete", "name": "sarah", "email": "sarah@example.com"}}
+{"instruction": "Send bob an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "bob@company.com", "subject": "Check-in", "body": "Looking forward to your reply."}}
+{"instruction": "Send tom an email saying We have started the project.", "output": {"type": "email", "receiver": "tom@gmail.com", "subject": "PR approved", "body": "We have started the project."}}
+{"instruction": "Send bob an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "bob@gmail.com", "subject": "Check-in", "body": "Don't forget the deadline."}}
+{"instruction": "Add sarah with email sarah@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "sarah", "email": "sarah@student.ncku.edu.tw"}}
+{"instruction": "Add tom with email tom@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "tom", "email": "tom@gs.ncku.edu.tw"}}
+{"instruction": "Update caixintong's email to caixintong@example.com", "output": {"type": "update", "action": "update", "name": "caixintong", "email": "caixintong@example.com"}}
+{"instruction": "Delete caixintong from contacts", "output": {"type": "update", "action": "delete", "name": "caixintong", "email": "caixintong@student.ncku.edu.tw"}}
+{"instruction": "Delete jim from contacts", "output": {"type": "update", "action": "delete", "name": "jim", "email": "jim@student.ncku.edu.tw"}}
+{"instruction": "Delete tom from contacts", "output": {"type": "update", "action": "delete", "name": "tom", "email": "tom@example.com"}}
+{"instruction": "Update caixintong's email to caixintong@gmail.com", "output": {"type": "update", "action": "update", "name": "caixintong", "email": "caixintong@gmail.com"}}
+{"instruction": "Send mike an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "mike@company.com", "subject": "Check-in", "body": "Appreciate your help on this."}}
+{"instruction": "Add linda with email linda@example.com", "output": {"type": "update", "action": "add", "name": "linda", "email": "linda@example.com"}}
+{"instruction": "Send tom an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "tom@gmail.com", "subject": "Welcome aboard", "body": "Your PR is approved, great work!"}}
+{"instruction": "Add sarah with email sarah@gmail.com", "output": {"type": "update", "action": "add", "name": "sarah", "email": "sarah@gmail.com"}}
+{"instruction": "Send kevin an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "kevin@example.com", "subject": "Follow-up", "body": "Looking forward to your reply."}}
+{"instruction": "Add tom with email tom@example.com", "output": {"type": "update", "action": "add", "name": "tom", "email": "tom@example.com"}}
+{"instruction": "Add sarah with email sarah@company.com", "output": {"type": "update", "action": "add", "name": "sarah", "email": "sarah@company.com"}}
+{"instruction": "Send bob an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "bob@example.com", "subject": "Welcome aboard", "body": "Don't forget the deadline."}}
+{"instruction": "Send susan an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "susan@gmail.com", "subject": "PR approved", "body": "Let's touch base at noon."}}
+{"instruction": "Add mike with email mike@gmail.com", "output": {"type": "update", "action": "add", "name": "mike", "email": "mike@gmail.com"}}
+{"instruction": "Add tom with email tom@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "tom", "email": "tom@gs.ncku.edu.tw"}}
+{"instruction": "Send bob an email saying We have started the project.", "output": {"type": "email", "receiver": "bob@example.com", "subject": "Thanks", "body": "We have started the project."}}
+{"instruction": "Update sarah's email to sarah@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@gs.ncku.edu.tw"}}
+{"instruction": "Delete mike from contacts", "output": {"type": "update", "action": "delete", "name": "mike", "email": "mike@student.ncku.edu.tw"}}
+{"instruction": "Delete sarah from contacts", "output": {"type": "update", "action": "delete", "name": "sarah", "email": "sarah@example.com"}}
+{"instruction": "Update sarah's email to sarah@company.com", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@company.com"}}
+{"instruction": "Send kevin an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "kevin@student.ncku.edu.tw", "subject": "Reminder", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send linda an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "linda@student.ncku.edu.tw", "subject": "Reminder", "body": "Looking forward to your reply."}}
+{"instruction": "Delete kevin from contacts", "output": {"type": "update", "action": "delete", "name": "kevin", "email": "kevin@gmail.com"}}
+{"instruction": "Add bob with email bob@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "bob", "email": "bob@student.ncku.edu.tw"}}
+{"instruction": "Add kevin with email kevin@company.com", "output": {"type": "update", "action": "add", "name": "kevin", "email": "kevin@company.com"}}
+{"instruction": "Send tom an email saying We have started the project.", "output": {"type": "email", "receiver": "tom@student.ncku.edu.tw", "subject": "Agenda attached", "body": "We have started the project."}}
+{"instruction": "Add caixintong with email caixintong@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "caixintong", "email": "caixintong@student.ncku.edu.tw"}}
+{"instruction": "Send caixintong an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "caixintong@student.ncku.edu.tw", "subject": "Reminder", "body": "Let's meet at 10am."}}
+{"instruction": "Add alice with email alice@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "alice", "email": "alice@student.ncku.edu.tw"}}
+{"instruction": "Send mike an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "mike@gmail.com", "subject": "Agenda attached", "body": "Let's meet at 10am."}}
+{"instruction": "Add sarah with email sarah@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "sarah", "email": "sarah@student.ncku.edu.tw"}}
+{"instruction": "Send alice an email saying We have started the project.", "output": {"type": "email", "receiver": "alice@gmail.com", "subject": "PR approved", "body": "We have started the project."}}
+{"instruction": "Send mike an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "mike@gmail.com", "subject": "Agenda attached", "body": "Your PR is approved, great work!"}}
+{"instruction": "Delete sarah from contacts", "output": {"type": "update", "action": "delete", "name": "sarah", "email": "sarah@company.com"}}
+{"instruction": "Add susan with email susan@example.com", "output": {"type": "update", "action": "add", "name": "susan", "email": "susan@example.com"}}
+{"instruction": "Send susan an email saying Great to have you with us.", "output": {"type": "email", "receiver": "susan@student.ncku.edu.tw", "subject": "Follow-up", "body": "Great to have you with us."}}
+{"instruction": "Send alice an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "alice@student.ncku.edu.tw", "subject": "Follow-up", "body": "Let's touch base at noon."}}
+{"instruction": "Send bob an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "bob@gmail.com", "subject": "Reminder", "body": "Can we move to next Monday?"}}
+{"instruction": "Update alice's email to alice@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "alice", "email": "alice@gs.ncku.edu.tw"}}
+{"instruction": "Update tom's email to tom@example.com", "output": {"type": "update", "action": "update", "name": "tom", "email": "tom@example.com"}}
+{"instruction": "Send bob an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "bob@company.com", "subject": "Reschedule request", "body": "Don't forget the deadline."}}
+{"instruction": "Update sarah's email to sarah@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@gs.ncku.edu.tw"}}
+{"instruction": "Send caixintong an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "caixintong@company.com", "subject": "Reschedule request", "body": "Let's meet at 10am."}}
+{"instruction": "Delete bob from contacts", "output": {"type": "update", "action": "delete", "name": "bob", "email": "bob@example.com"}}
+{"instruction": "Delete alice from contacts", "output": {"type": "update", "action": "delete", "name": "alice", "email": "alice@gmail.com"}}
+{"instruction": "Send linda an email saying We have started the project.", "output": {"type": "email", "receiver": "linda@example.com", "subject": "Reschedule request", "body": "We have started the project."}}
+{"instruction": "Send jim an email saying Please review the agenda.", "output": {"type": "email", "receiver": "jim@gs.ncku.edu.tw", "subject": "Reschedule request", "body": "Please review the agenda."}}
+{"instruction": "Update tom's email to tom@example.com", "output": {"type": "update", "action": "update", "name": "tom", "email": "tom@example.com"}}
+{"instruction": "Add alice with email alice@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "alice", "email": "alice@student.ncku.edu.tw"}}
+{"instruction": "Send tom an email saying Please review the agenda.", "output": {"type": "email", "receiver": "tom@company.com", "subject": "Project kickoff", "body": "Please review the agenda."}}
+{"instruction": "Send mike an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "mike@gmail.com", "subject": "Welcome aboard", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send sarah an email saying We have started the project.", "output": {"type": "email", "receiver": "sarah@company.com", "subject": "PR approved", "body": "We have started the project."}}
+{"instruction": "Send caixintong an email saying We have started the project.", "output": {"type": "email", "receiver": "caixintong@gs.ncku.edu.tw", "subject": "Project kickoff", "body": "We have started the project."}}
+{"instruction": "Add mike with email mike@gmail.com", "output": {"type": "update", "action": "add", "name": "mike", "email": "mike@gmail.com"}}
+{"instruction": "Update susan's email to susan@example.com", "output": {"type": "update", "action": "update", "name": "susan", "email": "susan@example.com"}}
+{"instruction": "Add sarah with email sarah@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "sarah", "email": "sarah@gs.ncku.edu.tw"}}
+{"instruction": "Delete mike from contacts", "output": {"type": "update", "action": "delete", "name": "mike", "email": "mike@gs.ncku.edu.tw"}}
+{"instruction": "Send tom an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "tom@example.com", "subject": "Agenda attached", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send kevin an email saying Please review the agenda.", "output": {"type": "email", "receiver": "kevin@gs.ncku.edu.tw", "subject": "Check-in", "body": "Please review the agenda."}}
+{"instruction": "Send bob an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "bob@gmail.com", "subject": "Reminder", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send tom an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "tom@gmail.com", "subject": "Project kickoff", "body": "Your PR is approved, great work!"}}
+{"instruction": "Add caixintong with email caixintong@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "caixintong", "email": "caixintong@student.ncku.edu.tw"}}
+{"instruction": "Update sarah's email to sarah@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@student.ncku.edu.tw"}}
+{"instruction": "Send susan an email saying Great to have you with us.", "output": {"type": "email", "receiver": "susan@company.com", "subject": "Reminder", "body": "Great to have you with us."}}
+{"instruction": "Delete tom from contacts", "output": {"type": "update", "action": "delete", "name": "tom", "email": "tom@gmail.com"}}
+{"instruction": "Add sarah with email sarah@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "sarah", "email": "sarah@gs.ncku.edu.tw"}}
+{"instruction": "Delete tom from contacts", "output": {"type": "update", "action": "delete", "name": "tom", "email": "tom@example.com"}}
+{"instruction": "Add caixintong with email caixintong@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "caixintong", "email": "caixintong@student.ncku.edu.tw"}}
+{"instruction": "Send jim an email saying Please review the agenda.", "output": {"type": "email", "receiver": "jim@company.com", "subject": "Agenda attached", "body": "Please review the agenda."}}
+{"instruction": "Send kevin an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "kevin@company.com", "subject": "Welcome aboard", "body": "Appreciate your help on this."}}
+{"instruction": "Add caixintong with email caixintong@example.com", "output": {"type": "update", "action": "add", "name": "caixintong", "email": "caixintong@example.com"}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@company.com"}}
+{"instruction": "Send tom an email saying Great to have you with us.", "output": {"type": "email", "receiver": "tom@company.com", "subject": "Reschedule request", "body": "Great to have you with us."}}
+{"instruction": "Delete tom from contacts", "output": {"type": "update", "action": "delete", "name": "tom", "email": "tom@company.com"}}
+{"instruction": "Delete mike from contacts", "output": {"type": "update", "action": "delete", "name": "mike", "email": "mike@example.com"}}
+{"instruction": "Update kevin's email to kevin@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "kevin", "email": "kevin@student.ncku.edu.tw"}}
+{"instruction": "Send alice an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "alice@gmail.com", "subject": "Reminder", "body": "Don't forget the deadline."}}
+{"instruction": "Delete tom from contacts", "output": {"type": "update", "action": "delete", "name": "tom", "email": "tom@company.com"}}
+{"instruction": "Send susan an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "susan@example.com", "subject": "Check-in", "body": "Can we move to next Monday?"}}
+{"instruction": "Send tom an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "tom@company.com", "subject": "Meeting tomorrow", "body": "Appreciate your help on this."}}
+{"instruction": "Send jim an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "jim@student.ncku.edu.tw", "subject": "Thanks", "body": "Can we move to next Monday?"}}
+{"instruction": "Add bob with email bob@example.com", "output": {"type": "update", "action": "add", "name": "bob", "email": "bob@example.com"}}
+{"instruction": "Update sarah's email to sarah@company.com", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@company.com"}}
+{"instruction": "Send sarah an email saying Please review the agenda.", "output": {"type": "email", "receiver": "sarah@gmail.com", "subject": "Reminder", "body": "Please review the agenda."}}
+{"instruction": "Send alice an email saying Great to have you with us.", "output": {"type": "email", "receiver": "alice@gs.ncku.edu.tw", "subject": "Reminder", "body": "Great to have you with us."}}
+{"instruction": "Send kevin an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "kevin@example.com", "subject": "Reminder", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send bob an email saying Please review the agenda.", "output": {"type": "email", "receiver": "bob@example.com", "subject": "Project kickoff", "body": "Please review the agenda."}}
+{"instruction": "Send susan an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "susan@company.com", "subject": "Reschedule request", "body": "Can we move to next Monday?"}}
+{"instruction": "Update alice's email to alice@example.com", "output": {"type": "update", "action": "update", "name": "alice", "email": "alice@example.com"}}
+{"instruction": "Send alice an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "alice@gs.ncku.edu.tw", "subject": "Reminder", "body": "Let's meet at 10am."}}
+{"instruction": "Update tom's email to tom@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "tom", "email": "tom@student.ncku.edu.tw"}}
+{"instruction": "Delete alice from contacts", "output": {"type": "update", "action": "delete", "name": "alice", "email": "alice@gs.ncku.edu.tw"}}
+{"instruction": "Delete caixintong from contacts", "output": {"type": "update", "action": "delete", "name": "caixintong", "email": "caixintong@student.ncku.edu.tw"}}
+{"instruction": "Send linda an email saying We have started the project.", "output": {"type": "email", "receiver": "linda@student.ncku.edu.tw", "subject": "PR approved", "body": "We have started the project."}}
+{"instruction": "Send jim an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "jim@gmail.com", "subject": "Reminder", "body": "Appreciate your help on this."}}
+{"instruction": "Send bob an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "bob@gs.ncku.edu.tw", "subject": "Reminder", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send kevin an email saying Please review the agenda.", "output": {"type": "email", "receiver": "kevin@company.com", "subject": "Agenda attached", "body": "Please review the agenda."}}
+{"instruction": "Send caixintong an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "caixintong@student.ncku.edu.tw", "subject": "Welcome aboard", "body": "Don't forget the deadline."}}
+{"instruction": "Send kevin an email saying We have started the project.", "output": {"type": "email", "receiver": "kevin@company.com", "subject": "Check-in", "body": "We have started the project."}}
+{"instruction": "Send kevin an email saying Please review the agenda.", "output": {"type": "email", "receiver": "kevin@student.ncku.edu.tw", "subject": "Welcome aboard", "body": "Please review the agenda."}}
+{"instruction": "Delete linda from contacts", "output": {"type": "update", "action": "delete", "name": "linda", "email": "linda@company.com"}}
+{"instruction": "Send linda an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "linda@student.ncku.edu.tw", "subject": "PR approved", "body": "Let's touch base at noon."}}
+{"instruction": "Update caixintong's email to caixintong@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "caixintong", "email": "caixintong@gs.ncku.edu.tw"}}
+{"instruction": "Update tom's email to tom@gmail.com", "output": {"type": "update", "action": "update", "name": "tom", "email": "tom@gmail.com"}}
+{"instruction": "Delete kevin from contacts", "output": {"type": "update", "action": "delete", "name": "kevin", "email": "kevin@student.ncku.edu.tw"}}
+{"instruction": "Send susan an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "susan@company.com", "subject": "Thanks", "body": "Can we move to next Monday?"}}
+{"instruction": "Add tom with email tom@gmail.com", "output": {"type": "update", "action": "add", "name": "tom", "email": "tom@gmail.com"}}
+{"instruction": "Delete caixintong from contacts", "output": {"type": "update", "action": "delete", "name": "caixintong", "email": "caixintong@gmail.com"}}
+{"instruction": "Send jim an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "jim@gs.ncku.edu.tw", "subject": "Agenda attached", "body": "Let's meet at 10am."}}
+{"instruction": "Send susan an email saying Great to have you with us.", "output": {"type": "email", "receiver": "susan@gs.ncku.edu.tw", "subject": "PR approved", "body": "Great to have you with us."}}
+{"instruction": "Send susan an email saying We have started the project.", "output": {"type": "email", "receiver": "susan@gmail.com", "subject": "Thanks", "body": "We have started the project."}}
+{"instruction": "Send tom an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "tom@gmail.com", "subject": "Thanks", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send tom an email saying Please review the agenda.", "output": {"type": "email", "receiver": "tom@gmail.com", "subject": "Agenda attached", "body": "Please review the agenda."}}
+{"instruction": "Add alice with email alice@company.com", "output": {"type": "update", "action": "add", "name": "alice", "email": "alice@company.com"}}
+{"instruction": "Add jim with email jim@company.com", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@company.com"}}
+{"instruction": "Delete mike from contacts", "output": {"type": "update", "action": "delete", "name": "mike", "email": "mike@company.com"}}
+{"instruction": "Add linda with email linda@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "linda", "email": "linda@student.ncku.edu.tw"}}
+{"instruction": "Update alice's email to alice@company.com", "output": {"type": "update", "action": "update", "name": "alice", "email": "alice@company.com"}}
+{"instruction": "Add sarah with email sarah@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "sarah", "email": "sarah@gs.ncku.edu.tw"}}
+{"instruction": "Send linda an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "linda@example.com", "subject": "Project kickoff", "body": "Can we move to next Monday?"}}
+{"instruction": "Send linda an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "linda@student.ncku.edu.tw", "subject": "Reschedule request", "body": "Can we move to next Monday?"}}
+{"instruction": "Send mike an email saying Please review the agenda.", "output": {"type": "email", "receiver": "mike@student.ncku.edu.tw", "subject": "PR approved", "body": "Please review the agenda."}}
+{"instruction": "Send kevin an email saying Great to have you with us.", "output": {"type": "email", "receiver": "kevin@student.ncku.edu.tw", "subject": "Reminder", "body": "Great to have you with us."}}
+{"instruction": "Add kevin with email kevin@example.com", "output": {"type": "update", "action": "add", "name": "kevin", "email": "kevin@example.com"}}
+{"instruction": "Send tom an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "tom@gs.ncku.edu.tw", "subject": "Agenda attached", "body": "Appreciate your help on this."}}
+{"instruction": "Delete kevin from contacts", "output": {"type": "update", "action": "delete", "name": "kevin", "email": "kevin@gs.ncku.edu.tw"}}
+{"instruction": "Send kevin an email saying Great to have you with us.", "output": {"type": "email", "receiver": "kevin@example.com", "subject": "Welcome aboard", "body": "Great to have you with us."}}
+{"instruction": "Delete linda from contacts", "output": {"type": "update", "action": "delete", "name": "linda", "email": "linda@gs.ncku.edu.tw"}}
+{"instruction": "Update linda's email to linda@company.com", "output": {"type": "update", "action": "update", "name": "linda", "email": "linda@company.com"}}
+{"instruction": "Send sarah an email saying Please review the agenda.", "output": {"type": "email", "receiver": "sarah@gs.ncku.edu.tw", "subject": "Thanks", "body": "Please review the agenda."}}
+{"instruction": "Add caixintong with email caixintong@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "caixintong", "email": "caixintong@gs.ncku.edu.tw"}}
+{"instruction": "Send caixintong an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "caixintong@gmail.com", "subject": "Follow-up", "body": "Let's touch base at noon."}}
+{"instruction": "Send susan an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "susan@gmail.com", "subject": "Reminder", "body": "Looking forward to your reply."}}
+{"instruction": "Update susan's email to susan@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "susan", "email": "susan@student.ncku.edu.tw"}}
+{"instruction": "Delete caixintong from contacts", "output": {"type": "update", "action": "delete", "name": "caixintong", "email": "caixintong@company.com"}}
+{"instruction": "Send sarah an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "sarah@student.ncku.edu.tw", "subject": "Welcome aboard", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send alice an email saying Great to have you with us.", "output": {"type": "email", "receiver": "alice@gs.ncku.edu.tw", "subject": "Check-in", "body": "Great to have you with us."}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@gmail.com"}}
+{"instruction": "Send susan an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "susan@company.com", "subject": "Check-in", "body": "Looking forward to your reply."}}
+{"instruction": "Delete caixintong from contacts", "output": {"type": "update", "action": "delete", "name": "caixintong", "email": "caixintong@student.ncku.edu.tw"}}
+{"instruction": "Send alice an email saying Great to have you with us.", "output": {"type": "email", "receiver": "alice@gmail.com", "subject": "PR approved", "body": "Great to have you with us."}}
+{"instruction": "Send alice an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "alice@company.com", "subject": "Reschedule request", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send jim an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "jim@example.com", "subject": "Check-in", "body": "Appreciate your help on this."}}
+{"instruction": "Send bob an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "bob@gs.ncku.edu.tw", "subject": "Welcome aboard", "body": "Don't forget the deadline."}}
+{"instruction": "Send mike an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "mike@example.com", "subject": "Reminder", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send sarah an email saying We have started the project.", "output": {"type": "email", "receiver": "sarah@company.com", "subject": "Check-in", "body": "We have started the project."}}
+{"instruction": "Send jim an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "jim@example.com", "subject": "Agenda attached", "body": "Don't forget the deadline."}}
+{"instruction": "Send jim an email saying Please review the agenda.", "output": {"type": "email", "receiver": "jim@student.ncku.edu.tw", "subject": "Check-in", "body": "Please review the agenda."}}
+{"instruction": "Send jim an email saying We have started the project.", "output": {"type": "email", "receiver": "jim@gmail.com", "subject": "PR approved", "body": "We have started the project."}}
+{"instruction": "Send alice an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "alice@gs.ncku.edu.tw", "subject": "Reschedule request", "body": "Looking forward to your reply."}}
+{"instruction": "Add mike with email mike@gmail.com", "output": {"type": "update", "action": "add", "name": "mike", "email": "mike@gmail.com"}}
+{"instruction": "Send linda an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "linda@gmail.com", "subject": "Project kickoff", "body": "Looking forward to your reply."}}
+{"instruction": "Send jim an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "jim@gmail.com", "subject": "PR approved", "body": "Let's touch base at noon."}}
+{"instruction": "Send bob an email saying We have started the project.", "output": {"type": "email", "receiver": "bob@gs.ncku.edu.tw", "subject": "PR approved", "body": "We have started the project."}}
+{"instruction": "Send bob an email saying Great to have you with us.", "output": {"type": "email", "receiver": "bob@student.ncku.edu.tw", "subject": "Thanks", "body": "Great to have you with us."}}
+{"instruction": "Send jim an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "jim@example.com", "subject": "Meeting tomorrow", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send tom an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "tom@student.ncku.edu.tw", "subject": "Project kickoff", "body": "Appreciate your help on this."}}
+{"instruction": "Send jim an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "jim@gmail.com", "subject": "Meeting tomorrow", "body": "Let's meet at 10am."}}
+{"instruction": "Send linda an email saying We have started the project.", "output": {"type": "email", "receiver": "linda@student.ncku.edu.tw", "subject": "Reschedule request", "body": "We have started the project."}}
+{"instruction": "Delete sarah from contacts", "output": {"type": "update", "action": "delete", "name": "sarah", "email": "sarah@company.com"}}
+{"instruction": "Update susan's email to susan@example.com", "output": {"type": "update", "action": "update", "name": "susan", "email": "susan@example.com"}}
+{"instruction": "Send alice an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "alice@student.ncku.edu.tw", "subject": "Reschedule request", "body": "Don't forget the deadline."}}
+{"instruction": "Update bob's email to bob@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "bob", "email": "bob@student.ncku.edu.tw"}}
+{"instruction": "Update jim's email to jim@example.com", "output": {"type": "update", "action": "update", "name": "jim", "email": "jim@example.com"}}
+{"instruction": "Send tom an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "tom@gs.ncku.edu.tw", "subject": "PR approved", "body": "Don't forget the deadline."}}
+{"instruction": "Add linda with email linda@example.com", "output": {"type": "update", "action": "add", "name": "linda", "email": "linda@example.com"}}
+{"instruction": "Add mike with email mike@company.com", "output": {"type": "update", "action": "add", "name": "mike", "email": "mike@company.com"}}
+{"instruction": "Send kevin an email saying Great to have you with us.", "output": {"type": "email", "receiver": "kevin@student.ncku.edu.tw", "subject": "Welcome aboard", "body": "Great to have you with us."}}
+{"instruction": "Send caixintong an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "caixintong@company.com", "subject": "Reschedule request", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send bob an email saying Please review the agenda.", "output": {"type": "email", "receiver": "bob@gs.ncku.edu.tw", "subject": "Follow-up", "body": "Please review the agenda."}}
+{"instruction": "Send susan an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "susan@company.com", "subject": "Follow-up", "body": "Let's touch base at noon."}}
+{"instruction": "Update caixintong's email to caixintong@gmail.com", "output": {"type": "update", "action": "update", "name": "caixintong", "email": "caixintong@gmail.com"}}
+{"instruction": "Send sarah an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "sarah@example.com", "subject": "Agenda attached", "body": "Looking forward to your reply."}}
+{"instruction": "Update caixintong's email to caixintong@example.com", "output": {"type": "update", "action": "update", "name": "caixintong", "email": "caixintong@example.com"}}
+{"instruction": "Add jim with email jim@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@gs.ncku.edu.tw"}}
+{"instruction": "Delete caixintong from contacts", "output": {"type": "update", "action": "delete", "name": "caixintong", "email": "caixintong@company.com"}}
+{"instruction": "Delete sarah from contacts", "output": {"type": "update", "action": "delete", "name": "sarah", "email": "sarah@example.com"}}
+{"instruction": "Delete tom from contacts", "output": {"type": "update", "action": "delete", "name": "tom", "email": "tom@student.ncku.edu.tw"}}
+{"instruction": "Delete sarah from contacts", "output": {"type": "update", "action": "delete", "name": "sarah", "email": "sarah@student.ncku.edu.tw"}}
+{"instruction": "Send susan an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "susan@student.ncku.edu.tw", "subject": "Reminder", "body": "Don't forget the deadline."}}
+{"instruction": "Update bob's email to bob@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "bob", "email": "bob@student.ncku.edu.tw"}}
+{"instruction": "Send tom an email saying Please review the agenda.", "output": {"type": "email", "receiver": "tom@company.com", "subject": "PR approved", "body": "Please review the agenda."}}
+{"instruction": "Add alice with email alice@example.com", "output": {"type": "update", "action": "add", "name": "alice", "email": "alice@example.com"}}
+{"instruction": "Send mike an email saying We have started the project.", "output": {"type": "email", "receiver": "mike@student.ncku.edu.tw", "subject": "Reminder", "body": "We have started the project."}}
+{"instruction": "Send mike an email saying Great to have you with us.", "output": {"type": "email", "receiver": "mike@gmail.com", "subject": "PR approved", "body": "Great to have you with us."}}
+{"instruction": "Add caixintong with email caixintong@example.com", "output": {"type": "update", "action": "add", "name": "caixintong", "email": "caixintong@example.com"}}
+{"instruction": "Send kevin an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "kevin@example.com", "subject": "Check-in", "body": "Can we move to next Monday?"}}
+{"instruction": "Add mike with email mike@example.com", "output": {"type": "update", "action": "add", "name": "mike", "email": "mike@example.com"}}
+{"instruction": "Send sarah an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "sarah@student.ncku.edu.tw", "subject": "Welcome aboard", "body": "Let's touch base at noon."}}
+{"instruction": "Delete caixintong from contacts", "output": {"type": "update", "action": "delete", "name": "caixintong", "email": "caixintong@gs.ncku.edu.tw"}}
+{"instruction": "Delete caixintong from contacts", "output": {"type": "update", "action": "delete", "name": "caixintong", "email": "caixintong@student.ncku.edu.tw"}}
+{"instruction": "Update tom's email to tom@company.com", "output": {"type": "update", "action": "update", "name": "tom", "email": "tom@company.com"}}
+{"instruction": "Send jim an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "jim@gmail.com", "subject": "Follow-up", "body": "Can we move to next Monday?"}}
+{"instruction": "Send linda an email saying We have started the project.", "output": {"type": "email", "receiver": "linda@example.com", "subject": "Agenda attached", "body": "We have started the project."}}
+{"instruction": "Send linda an email saying We have started the project.", "output": {"type": "email", "receiver": "linda@gmail.com", "subject": "Check-in", "body": "We have started the project."}}
+{"instruction": "Add jim with email jim@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@student.ncku.edu.tw"}}
+{"instruction": "Send mike an email saying Great to have you with us.", "output": {"type": "email", "receiver": "mike@example.com", "subject": "Follow-up", "body": "Great to have you with us."}}
+{"instruction": "Send mike an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "mike@student.ncku.edu.tw", "subject": "Follow-up", "body": "Don't forget the deadline."}}
+{"instruction": "Update sarah's email to sarah@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@student.ncku.edu.tw"}}
+{"instruction": "Update susan's email to susan@gmail.com", "output": {"type": "update", "action": "update", "name": "susan", "email": "susan@gmail.com"}}
+{"instruction": "Delete caixintong from contacts", "output": {"type": "update", "action": "delete", "name": "caixintong", "email": "caixintong@example.com"}}
+{"instruction": "Delete alice from contacts", "output": {"type": "update", "action": "delete", "name": "alice", "email": "alice@gmail.com"}}
+{"instruction": "Delete sarah from contacts", "output": {"type": "update", "action": "delete", "name": "sarah", "email": "sarah@student.ncku.edu.tw"}}
+{"instruction": "Update susan's email to susan@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "susan", "email": "susan@student.ncku.edu.tw"}}
+{"instruction": "Update alice's email to alice@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "alice", "email": "alice@gs.ncku.edu.tw"}}
+{"instruction": "Add jim with email jim@example.com", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@example.com"}}
+{"instruction": "Send kevin an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "kevin@gs.ncku.edu.tw", "subject": "Thanks", "body": "Let's touch base at noon."}}
+{"instruction": "Send mike an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "mike@gs.ncku.edu.tw", "subject": "Agenda attached", "body": "Looking forward to your reply."}}
+{"instruction": "Send mike an email saying Great to have you with us.", "output": {"type": "email", "receiver": "mike@example.com", "subject": "Meeting tomorrow", "body": "Great to have you with us."}}
+{"instruction": "Send alice an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "alice@company.com", "subject": "Welcome aboard", "body": "Appreciate your help on this."}}
+{"instruction": "Send sarah an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "sarah@example.com", "subject": "Meeting tomorrow", "body": "Appreciate your help on this."}}
+{"instruction": "Send bob an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "bob@gs.ncku.edu.tw", "subject": "PR approved", "body": "Let's touch base at noon."}}
+{"instruction": "Update mike's email to mike@company.com", "output": {"type": "update", "action": "update", "name": "mike", "email": "mike@company.com"}}
+{"instruction": "Send kevin an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "kevin@gs.ncku.edu.tw", "subject": "Meeting tomorrow", "body": "Looking forward to your reply."}}
+{"instruction": "Update linda's email to linda@gmail.com", "output": {"type": "update", "action": "update", "name": "linda", "email": "linda@gmail.com"}}
+{"instruction": "Send mike an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "mike@example.com", "subject": "Reminder", "body": "Let's touch base at noon."}}
+{"instruction": "Send kevin an email saying We have started the project.", "output": {"type": "email", "receiver": "kevin@gmail.com", "subject": "Agenda attached", "body": "We have started the project."}}
+{"instruction": "Update sarah's email to sarah@example.com", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@example.com"}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@gmail.com"}}
+{"instruction": "Add kevin with email kevin@company.com", "output": {"type": "update", "action": "add", "name": "kevin", "email": "kevin@company.com"}}
+{"instruction": "Send jim an email saying Great to have you with us.", "output": {"type": "email", "receiver": "jim@gs.ncku.edu.tw", "subject": "Meeting tomorrow", "body": "Great to have you with us."}}
+{"instruction": "Update kevin's email to kevin@example.com", "output": {"type": "update", "action": "update", "name": "kevin", "email": "kevin@example.com"}}
+{"instruction": "Delete alice from contacts", "output": {"type": "update", "action": "delete", "name": "alice", "email": "alice@gs.ncku.edu.tw"}}
+{"instruction": "Update tom's email to tom@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "tom", "email": "tom@student.ncku.edu.tw"}}
+{"instruction": "Send bob an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "bob@company.com", "subject": "Welcome aboard", "body": "Don't forget the deadline."}}
+{"instruction": "Delete bob from contacts", "output": {"type": "update", "action": "delete", "name": "bob", "email": "bob@gs.ncku.edu.tw"}}
+{"instruction": "Send susan an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "susan@example.com", "subject": "Follow-up", "body": "Can we move to next Monday?"}}
+{"instruction": "Send tom an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "tom@gs.ncku.edu.tw", "subject": "Agenda attached", "body": "Your PR is approved, great work!"}}
+{"instruction": "Delete alice from contacts", "output": {"type": "update", "action": "delete", "name": "alice", "email": "alice@gs.ncku.edu.tw"}}
+{"instruction": "Delete kevin from contacts", "output": {"type": "update", "action": "delete", "name": "kevin", "email": "kevin@gmail.com"}}
+{"instruction": "Add susan with email susan@company.com", "output": {"type": "update", "action": "add", "name": "susan", "email": "susan@company.com"}}
+{"instruction": "Update kevin's email to kevin@example.com", "output": {"type": "update", "action": "update", "name": "kevin", "email": "kevin@example.com"}}
+{"instruction": "Add tom with email tom@company.com", "output": {"type": "update", "action": "add", "name": "tom", "email": "tom@company.com"}}
+{"instruction": "Send bob an email saying We have started the project.", "output": {"type": "email", "receiver": "bob@gs.ncku.edu.tw", "subject": "Reminder", "body": "We have started the project."}}
+{"instruction": "Send kevin an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "kevin@gmail.com", "subject": "PR approved", "body": "Can we move to next Monday?"}}
+{"instruction": "Send linda an email saying Please review the agenda.", "output": {"type": "email", "receiver": "linda@gmail.com", "subject": "Follow-up", "body": "Please review the agenda."}}
+{"instruction": "Send susan an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "susan@example.com", "subject": "Thanks", "body": "Appreciate your help on this."}}
+{"instruction": "Send alice an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "alice@gmail.com", "subject": "Welcome aboard", "body": "Let's meet at 10am."}}
+{"instruction": "Add kevin with email kevin@company.com", "output": {"type": "update", "action": "add", "name": "kevin", "email": "kevin@company.com"}}
+{"instruction": "Send jim an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "jim@student.ncku.edu.tw", "subject": "Reschedule request", "body": "Appreciate your help on this."}}
+{"instruction": "Update bob's email to bob@gmail.com", "output": {"type": "update", "action": "update", "name": "bob", "email": "bob@gmail.com"}}
+{"instruction": "Send alice an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "alice@company.com", "subject": "Agenda attached", "body": "Can we move to next Monday?"}}
+{"instruction": "Add mike with email mike@gmail.com", "output": {"type": "update", "action": "add", "name": "mike", "email": "mike@gmail.com"}}
+{"instruction": "Add bob with email bob@company.com", "output": {"type": "update", "action": "add", "name": "bob", "email": "bob@company.com"}}
+{"instruction": "Send jim an email saying Please review the agenda.", "output": {"type": "email", "receiver": "jim@example.com", "subject": "Reschedule request", "body": "Please review the agenda."}}
+{"instruction": "Delete alice from contacts", "output": {"type": "update", "action": "delete", "name": "alice", "email": "alice@example.com"}}
+{"instruction": "Add bob with email bob@company.com", "output": {"type": "update", "action": "add", "name": "bob", "email": "bob@company.com"}}
+{"instruction": "Send caixintong an email saying Great to have you with us.", "output": {"type": "email", "receiver": "caixintong@example.com", "subject": "Reminder", "body": "Great to have you with us."}}
+{"instruction": "Update susan's email to susan@example.com", "output": {"type": "update", "action": "update", "name": "susan", "email": "susan@example.com"}}
+{"instruction": "Update tom's email to tom@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "tom", "email": "tom@student.ncku.edu.tw"}}
+{"instruction": "Delete linda from contacts", "output": {"type": "update", "action": "delete", "name": "linda", "email": "linda@gs.ncku.edu.tw"}}
+{"instruction": "Send kevin an email saying Please review the agenda.", "output": {"type": "email", "receiver": "kevin@example.com", "subject": "PR approved", "body": "Please review the agenda."}}
+{"instruction": "Send bob an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "bob@gmail.com", "subject": "Follow-up", "body": "Let's touch base at noon."}}
+{"instruction": "Send jim an email saying Great to have you with us.", "output": {"type": "email", "receiver": "jim@gs.ncku.edu.tw", "subject": "Follow-up", "body": "Great to have you with us."}}
+{"instruction": "Add alice with email alice@company.com", "output": {"type": "update", "action": "add", "name": "alice", "email": "alice@company.com"}}
+{"instruction": "Send tom an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "tom@example.com", "subject": "Reminder", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send susan an email saying Great to have you with us.", "output": {"type": "email", "receiver": "susan@student.ncku.edu.tw", "subject": "Reminder", "body": "Great to have you with us."}}
+{"instruction": "Send alice an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "alice@example.com", "subject": "Check-in", "body": "Appreciate your help on this."}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@gs.ncku.edu.tw"}}
+{"instruction": "Send tom an email saying We have started the project.", "output": {"type": "email", "receiver": "tom@company.com", "subject": "Follow-up", "body": "We have started the project."}}
+{"instruction": "Send linda an email saying Great to have you with us.", "output": {"type": "email", "receiver": "linda@company.com", "subject": "Agenda attached", "body": "Great to have you with us."}}
+{"instruction": "Update sarah's email to sarah@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@student.ncku.edu.tw"}}
+{"instruction": "Send tom an email saying Please review the agenda.", "output": {"type": "email", "receiver": "tom@student.ncku.edu.tw", "subject": "PR approved", "body": "Please review the agenda."}}
+{"instruction": "Send alice an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "alice@student.ncku.edu.tw", "subject": "Follow-up", "body": "Don't forget the deadline."}}
+{"instruction": "Send caixintong an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "caixintong@gs.ncku.edu.tw", "subject": "Meeting tomorrow", "body": "Let's meet at 10am."}}
+{"instruction": "Send alice an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "alice@company.com", "subject": "Reschedule request", "body": "Can we move to next Monday?"}}
+{"instruction": "Send alice an email saying Please review the agenda.", "output": {"type": "email", "receiver": "alice@gmail.com", "subject": "Reschedule request", "body": "Please review the agenda."}}
+{"instruction": "Delete alice from contacts", "output": {"type": "update", "action": "delete", "name": "alice", "email": "alice@gs.ncku.edu.tw"}}
+{"instruction": "Update alice's email to alice@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "alice", "email": "alice@gs.ncku.edu.tw"}}
+{"instruction": "Send jim an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "jim@gs.ncku.edu.tw", "subject": "Follow-up", "body": "Looking forward to your reply."}}
+{"instruction": "Add linda with email linda@gmail.com", "output": {"type": "update", "action": "add", "name": "linda", "email": "linda@gmail.com"}}
+{"instruction": "Send mike an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "mike@company.com", "subject": "PR approved", "body": "Let's meet at 10am."}}
+{"instruction": "Send jim an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "jim@company.com", "subject": "Welcome aboard", "body": "Can we move to next Monday?"}}
+{"instruction": "Send sarah an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "sarah@gmail.com", "subject": "Welcome aboard", "body": "Don't forget the deadline."}}
+{"instruction": "Send tom an email saying Please review the agenda.", "output": {"type": "email", "receiver": "tom@gs.ncku.edu.tw", "subject": "Meeting tomorrow", "body": "Please review the agenda."}}
+{"instruction": "Add linda with email linda@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "linda", "email": "linda@student.ncku.edu.tw"}}
+{"instruction": "Add linda with email linda@example.com", "output": {"type": "update", "action": "add", "name": "linda", "email": "linda@example.com"}}
+{"instruction": "Add sarah with email sarah@company.com", "output": {"type": "update", "action": "add", "name": "sarah", "email": "sarah@company.com"}}
+{"instruction": "Send sarah an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "sarah@student.ncku.edu.tw", "subject": "Follow-up", "body": "Don't forget the deadline."}}
+{"instruction": "Send kevin an email saying Great to have you with us.", "output": {"type": "email", "receiver": "kevin@gs.ncku.edu.tw", "subject": "Meeting tomorrow", "body": "Great to have you with us."}}
+{"instruction": "Update alice's email to alice@gmail.com", "output": {"type": "update", "action": "update", "name": "alice", "email": "alice@gmail.com"}}
+{"instruction": "Add alice with email alice@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "alice", "email": "alice@gs.ncku.edu.tw"}}
+{"instruction": "Send sarah an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "sarah@gs.ncku.edu.tw", "subject": "Check-in", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send tom an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "tom@gs.ncku.edu.tw", "subject": "Reschedule request", "body": "Let's meet at 10am."}}
+{"instruction": "Add jim with email jim@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@student.ncku.edu.tw"}}
+{"instruction": "Delete caixintong from contacts", "output": {"type": "update", "action": "delete", "name": "caixintong", "email": "caixintong@student.ncku.edu.tw"}}
+{"instruction": "Delete linda from contacts", "output": {"type": "update", "action": "delete", "name": "linda", "email": "linda@company.com"}}
+{"instruction": "Update susan's email to susan@gmail.com", "output": {"type": "update", "action": "update", "name": "susan", "email": "susan@gmail.com"}}
+{"instruction": "Delete tom from contacts", "output": {"type": "update", "action": "delete", "name": "tom", "email": "tom@gmail.com"}}
+{"instruction": "Send bob an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "bob@company.com", "subject": "Reminder", "body": "Let's touch base at noon."}}
+{"instruction": "Update kevin's email to kevin@company.com", "output": {"type": "update", "action": "update", "name": "kevin", "email": "kevin@company.com"}}
+{"instruction": "Add mike with email mike@company.com", "output": {"type": "update", "action": "add", "name": "mike", "email": "mike@company.com"}}
+{"instruction": "Update tom's email to tom@company.com", "output": {"type": "update", "action": "update", "name": "tom", "email": "tom@company.com"}}
+{"instruction": "Send sarah an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "sarah@student.ncku.edu.tw", "subject": "Check-in", "body": "Let's touch base at noon."}}
+{"instruction": "Update tom's email to tom@company.com", "output": {"type": "update", "action": "update", "name": "tom", "email": "tom@company.com"}}
+{"instruction": "Delete caixintong from contacts", "output": {"type": "update", "action": "delete", "name": "caixintong", "email": "caixintong@gmail.com"}}
+{"instruction": "Send tom an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "tom@gs.ncku.edu.tw", "subject": "Reschedule request", "body": "Don't forget the deadline."}}
+{"instruction": "Send susan an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "susan@student.ncku.edu.tw", "subject": "Check-in", "body": "Let's touch base at noon."}}
+{"instruction": "Update mike's email to mike@company.com", "output": {"type": "update", "action": "update", "name": "mike", "email": "mike@company.com"}}
+{"instruction": "Add susan with email susan@company.com", "output": {"type": "update", "action": "add", "name": "susan", "email": "susan@company.com"}}
+{"instruction": "Send kevin an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "kevin@example.com", "subject": "PR approved", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send alice an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "alice@gmail.com", "subject": "Agenda attached", "body": "Let's meet at 10am."}}
+{"instruction": "Add susan with email susan@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "susan", "email": "susan@gs.ncku.edu.tw"}}
+{"instruction": "Add linda with email linda@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "linda", "email": "linda@student.ncku.edu.tw"}}
+{"instruction": "Add jim with email jim@example.com", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@example.com"}}
+{"instruction": "Send sarah an email saying Great to have you with us.", "output": {"type": "email", "receiver": "sarah@example.com", "subject": "Project kickoff", "body": "Great to have you with us."}}
+{"instruction": "Send kevin an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "kevin@example.com", "subject": "Welcome aboard", "body": "Let's meet at 10am."}}
+{"instruction": "Add linda with email linda@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "linda", "email": "linda@gs.ncku.edu.tw"}}
+{"instruction": "Send tom an email saying We have started the project.", "output": {"type": "email", "receiver": "tom@student.ncku.edu.tw", "subject": "Project kickoff", "body": "We have started the project."}}
+{"instruction": "Update mike's email to mike@company.com", "output": {"type": "update", "action": "update", "name": "mike", "email": "mike@company.com"}}
+{"instruction": "Send sarah an email saying Please review the agenda.", "output": {"type": "email", "receiver": "sarah@example.com", "subject": "Follow-up", "body": "Please review the agenda."}}
+{"instruction": "Send jim an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "jim@gs.ncku.edu.tw", "subject": "Thanks", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send tom an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "tom@example.com", "subject": "Agenda attached", "body": "Looking forward to your reply."}}
+{"instruction": "Send caixintong an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "caixintong@company.com", "subject": "Reschedule request", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send mike an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "mike@example.com", "subject": "Welcome aboard", "body": "Looking forward to your reply."}}
+{"instruction": "Add linda with email linda@gmail.com", "output": {"type": "update", "action": "add", "name": "linda", "email": "linda@gmail.com"}}
+{"instruction": "Add caixintong with email caixintong@example.com", "output": {"type": "update", "action": "add", "name": "caixintong", "email": "caixintong@example.com"}}
+{"instruction": "Send caixintong an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "caixintong@gmail.com", "subject": "Check-in", "body": "Can we move to next Monday?"}}
+{"instruction": "Send tom an email saying Great to have you with us.", "output": {"type": "email", "receiver": "tom@example.com", "subject": "Meeting tomorrow", "body": "Great to have you with us."}}
+{"instruction": "Send susan an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "susan@example.com", "subject": "Check-in", "body": "Appreciate your help on this."}}
+{"instruction": "Delete linda from contacts", "output": {"type": "update", "action": "delete", "name": "linda", "email": "linda@gmail.com"}}
+{"instruction": "Send susan an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "susan@company.com", "subject": "PR approved", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send jim an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "jim@company.com", "subject": "PR approved", "body": "Appreciate your help on this."}}
+{"instruction": "Update caixintong's email to caixintong@gmail.com", "output": {"type": "update", "action": "update", "name": "caixintong", "email": "caixintong@gmail.com"}}
+{"instruction": "Send bob an email saying We have started the project.", "output": {"type": "email", "receiver": "bob@company.com", "subject": "Thanks", "body": "We have started the project."}}
+{"instruction": "Delete linda from contacts", "output": {"type": "update", "action": "delete", "name": "linda", "email": "linda@gmail.com"}}
+{"instruction": "Update caixintong's email to caixintong@gmail.com", "output": {"type": "update", "action": "update", "name": "caixintong", "email": "caixintong@gmail.com"}}
+{"instruction": "Send linda an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "linda@student.ncku.edu.tw", "subject": "Reschedule request", "body": "Don't forget the deadline."}}
+{"instruction": "Update kevin's email to kevin@example.com", "output": {"type": "update", "action": "update", "name": "kevin", "email": "kevin@example.com"}}
+{"instruction": "Add tom with email tom@example.com", "output": {"type": "update", "action": "add", "name": "tom", "email": "tom@example.com"}}
+{"instruction": "Send caixintong an email saying We have started the project.", "output": {"type": "email", "receiver": "caixintong@company.com", "subject": "Check-in", "body": "We have started the project."}}
+{"instruction": "Send sarah an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "sarah@gmail.com", "subject": "Follow-up", "body": "Let's meet at 10am."}}
+{"instruction": "Send tom an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "tom@company.com", "subject": "Follow-up", "body": "Looking forward to your reply."}}
+{"instruction": "Update linda's email to linda@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "linda", "email": "linda@student.ncku.edu.tw"}}
+{"instruction": "Add caixintong with email caixintong@example.com", "output": {"type": "update", "action": "add", "name": "caixintong", "email": "caixintong@example.com"}}
+{"instruction": "Update linda's email to linda@example.com", "output": {"type": "update", "action": "update", "name": "linda", "email": "linda@example.com"}}
+{"instruction": "Send sarah an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "sarah@student.ncku.edu.tw", "subject": "Project kickoff", "body": "Let's meet at 10am."}}
+{"instruction": "Delete kevin from contacts", "output": {"type": "update", "action": "delete", "name": "kevin", "email": "kevin@student.ncku.edu.tw"}}
+{"instruction": "Send linda an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "linda@example.com", "subject": "Thanks", "body": "Appreciate your help on this."}}
+{"instruction": "Delete caixintong from contacts", "output": {"type": "update", "action": "delete", "name": "caixintong", "email": "caixintong@student.ncku.edu.tw"}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@gs.ncku.edu.tw"}}
+{"instruction": "Send sarah an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "sarah@gs.ncku.edu.tw", "subject": "Welcome aboard", "body": "Looking forward to your reply."}}
+{"instruction": "Send alice an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "alice@example.com", "subject": "Meeting tomorrow", "body": "Appreciate your help on this."}}
+{"instruction": "Send bob an email saying Great to have you with us.", "output": {"type": "email", "receiver": "bob@example.com", "subject": "Welcome aboard", "body": "Great to have you with us."}}
+{"instruction": "Send alice an email saying Please review the agenda.", "output": {"type": "email", "receiver": "alice@company.com", "subject": "Reschedule request", "body": "Please review the agenda."}}
+{"instruction": "Delete jim from contacts", "output": {"type": "update", "action": "delete", "name": "jim", "email": "jim@gmail.com"}}
+{"instruction": "Send susan an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "susan@example.com", "subject": "Reminder", "body": "Looking forward to your reply."}}
+{"instruction": "Update susan's email to susan@example.com", "output": {"type": "update", "action": "update", "name": "susan", "email": "susan@example.com"}}
+{"instruction": "Send alice an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "alice@example.com", "subject": "Reminder", "body": "Let's touch base at noon."}}
+{"instruction": "Send linda an email saying Great to have you with us.", "output": {"type": "email", "receiver": "linda@gs.ncku.edu.tw", "subject": "PR approved", "body": "Great to have you with us."}}
+{"instruction": "Update linda's email to linda@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "linda", "email": "linda@gs.ncku.edu.tw"}}
+{"instruction": "Update tom's email to tom@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "tom", "email": "tom@gs.ncku.edu.tw"}}
+{"instruction": "Send sarah an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "sarah@student.ncku.edu.tw", "subject": "Reminder", "body": "Appreciate your help on this."}}
+{"instruction": "Update bob's email to bob@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "bob", "email": "bob@student.ncku.edu.tw"}}
+{"instruction": "Send alice an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "alice@student.ncku.edu.tw", "subject": "Welcome aboard", "body": "Don't forget the deadline."}}
+{"instruction": "Send susan an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "susan@student.ncku.edu.tw", "subject": "Welcome aboard", "body": "Can we move to next Monday?"}}
+{"instruction": "Update mike's email to mike@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "mike", "email": "mike@gs.ncku.edu.tw"}}
+{"instruction": "Update jim's email to jim@company.com", "output": {"type": "update", "action": "update", "name": "jim", "email": "jim@company.com"}}
+{"instruction": "Send caixintong an email saying Great to have you with us.", "output": {"type": "email", "receiver": "caixintong@example.com", "subject": "Welcome aboard", "body": "Great to have you with us."}}
+{"instruction": "Send tom an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "tom@company.com", "subject": "Reschedule request", "body": "Looking forward to your reply."}}
+{"instruction": "Update mike's email to mike@gmail.com", "output": {"type": "update", "action": "update", "name": "mike", "email": "mike@gmail.com"}}
+{"instruction": "Delete tom from contacts", "output": {"type": "update", "action": "delete", "name": "tom", "email": "tom@student.ncku.edu.tw"}}
+{"instruction": "Add jim with email jim@company.com", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@company.com"}}
+{"instruction": "Send mike an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "mike@student.ncku.edu.tw", "subject": "Reminder", "body": "Looking forward to your reply."}}
+{"instruction": "Update tom's email to tom@gmail.com", "output": {"type": "update", "action": "update", "name": "tom", "email": "tom@gmail.com"}}
+{"instruction": "Send tom an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "tom@gs.ncku.edu.tw", "subject": "Meeting tomorrow", "body": "Let's touch base at noon."}}
+{"instruction": "Send alice an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "alice@company.com", "subject": "Agenda attached", "body": "Let's touch base at noon."}}
+{"instruction": "Send sarah an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "sarah@gs.ncku.edu.tw", "subject": "Follow-up", "body": "Let's meet at 10am."}}
+{"instruction": "Add susan with email susan@example.com", "output": {"type": "update", "action": "add", "name": "susan", "email": "susan@example.com"}}
+{"instruction": "Add bob with email bob@company.com", "output": {"type": "update", "action": "add", "name": "bob", "email": "bob@company.com"}}
+{"instruction": "Delete sarah from contacts", "output": {"type": "update", "action": "delete", "name": "sarah", "email": "sarah@gmail.com"}}
+{"instruction": "Delete kevin from contacts", "output": {"type": "update", "action": "delete", "name": "kevin", "email": "kevin@student.ncku.edu.tw"}}
+{"instruction": "Add jim with email jim@example.com", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@example.com"}}
+{"instruction": "Add jim with email jim@example.com", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@example.com"}}
+{"instruction": "Update sarah's email to sarah@example.com", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@example.com"}}
+{"instruction": "Send tom an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "tom@example.com", "subject": "Thanks", "body": "Your PR is approved, great work!"}}
+{"instruction": "Delete mike from contacts", "output": {"type": "update", "action": "delete", "name": "mike", "email": "mike@student.ncku.edu.tw"}}
+{"instruction": "Update susan's email to susan@company.com", "output": {"type": "update", "action": "update", "name": "susan", "email": "susan@company.com"}}
+{"instruction": "Update sarah's email to sarah@example.com", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@example.com"}}
+{"instruction": "Send alice an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "alice@gs.ncku.edu.tw", "subject": "Reschedule request", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send kevin an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "kevin@gs.ncku.edu.tw", "subject": "Reschedule request", "body": "Let's touch base at noon."}}
+{"instruction": "Update linda's email to linda@gmail.com", "output": {"type": "update", "action": "update", "name": "linda", "email": "linda@gmail.com"}}
+{"instruction": "Send linda an email saying Great to have you with us.", "output": {"type": "email", "receiver": "linda@company.com", "subject": "Check-in", "body": "Great to have you with us."}}
+{"instruction": "Send caixintong an email saying Please review the agenda.", "output": {"type": "email", "receiver": "caixintong@example.com", "subject": "Check-in", "body": "Please review the agenda."}}
+{"instruction": "Send tom an email saying We have started the project.", "output": {"type": "email", "receiver": "tom@company.com", "subject": "Agenda attached", "body": "We have started the project."}}
+{"instruction": "Send tom an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "tom@example.com", "subject": "Thanks", "body": "Looking forward to your reply."}}
+{"instruction": "Update kevin's email to kevin@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "kevin", "email": "kevin@student.ncku.edu.tw"}}
+{"instruction": "Send kevin an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "kevin@company.com", "subject": "PR approved", "body": "Don't forget the deadline."}}
+{"instruction": "Update sarah's email to sarah@company.com", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@company.com"}}
+{"instruction": "Delete bob from contacts", "output": {"type": "update", "action": "delete", "name": "bob", "email": "bob@example.com"}}
+{"instruction": "Send alice an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "alice@company.com", "subject": "Reminder", "body": "Let's meet at 10am."}}
+{"instruction": "Delete jim from contacts", "output": {"type": "update", "action": "delete", "name": "jim", "email": "jim@gmail.com"}}
+{"instruction": "Send kevin an email saying We have started the project.", "output": {"type": "email", "receiver": "kevin@gs.ncku.edu.tw", "subject": "Reschedule request", "body": "We have started the project."}}
+{"instruction": "Send alice an email saying We have started the project.", "output": {"type": "email", "receiver": "alice@student.ncku.edu.tw", "subject": "Thanks", "body": "We have started the project."}}
+{"instruction": "Send linda an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "linda@company.com", "subject": "Thanks", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send jim an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "jim@gs.ncku.edu.tw", "subject": "Follow-up", "body": "Appreciate your help on this."}}
+{"instruction": "Add alice with email alice@example.com", "output": {"type": "update", "action": "add", "name": "alice", "email": "alice@example.com"}}
+{"instruction": "Send linda an email saying We have started the project.", "output": {"type": "email", "receiver": "linda@example.com", "subject": "Agenda attached", "body": "We have started the project."}}
+{"instruction": "Add tom with email tom@example.com", "output": {"type": "update", "action": "add", "name": "tom", "email": "tom@example.com"}}
+{"instruction": "Update kevin's email to kevin@company.com", "output": {"type": "update", "action": "update", "name": "kevin", "email": "kevin@company.com"}}
+{"instruction": "Update jim's email to jim@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "jim", "email": "jim@student.ncku.edu.tw"}}
+{"instruction": "Send caixintong an email saying We have started the project.", "output": {"type": "email", "receiver": "caixintong@gs.ncku.edu.tw", "subject": "Reminder", "body": "We have started the project."}}
+{"instruction": "Add jim with email jim@company.com", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@company.com"}}
+{"instruction": "Add sarah with email sarah@gmail.com", "output": {"type": "update", "action": "add", "name": "sarah", "email": "sarah@gmail.com"}}
+{"instruction": "Send tom an email saying Please review the agenda.", "output": {"type": "email", "receiver": "tom@student.ncku.edu.tw", "subject": "Project kickoff", "body": "Please review the agenda."}}
+{"instruction": "Update sarah's email to sarah@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@student.ncku.edu.tw"}}
+{"instruction": "Send jim an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "jim@gmail.com", "subject": "Meeting tomorrow", "body": "Looking forward to your reply."}}
+{"instruction": "Add bob with email bob@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "bob", "email": "bob@student.ncku.edu.tw"}}
+{"instruction": "Send sarah an email saying Great to have you with us.", "output": {"type": "email", "receiver": "sarah@gmail.com", "subject": "Welcome aboard", "body": "Great to have you with us."}}
+{"instruction": "Delete linda from contacts", "output": {"type": "update", "action": "delete", "name": "linda", "email": "linda@example.com"}}
+{"instruction": "Send mike an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "mike@gs.ncku.edu.tw", "subject": "Reminder", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send sarah an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "sarah@gs.ncku.edu.tw", "subject": "Agenda attached", "body": "Don't forget the deadline."}}
+{"instruction": "Send kevin an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "kevin@gmail.com", "subject": "Agenda attached", "body": "Let's touch base at noon."}}
+{"instruction": "Add mike with email mike@company.com", "output": {"type": "update", "action": "add", "name": "mike", "email": "mike@company.com"}}
+{"instruction": "Add caixintong with email caixintong@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "caixintong", "email": "caixintong@student.ncku.edu.tw"}}
+{"instruction": "Send alice an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "alice@example.com", "subject": "Agenda attached", "body": "Don't forget the deadline."}}
+{"instruction": "Send kevin an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "kevin@student.ncku.edu.tw", "subject": "Check-in", "body": "Your PR is approved, great work!"}}
+{"instruction": "Add kevin with email kevin@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "kevin", "email": "kevin@student.ncku.edu.tw"}}
+{"instruction": "Add linda with email linda@example.com", "output": {"type": "update", "action": "add", "name": "linda", "email": "linda@example.com"}}
+{"instruction": "Send kevin an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "kevin@gs.ncku.edu.tw", "subject": "Reminder", "body": "Don't forget the deadline."}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@gs.ncku.edu.tw"}}
+{"instruction": "Send caixintong an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "caixintong@example.com", "subject": "Agenda attached", "body": "Your PR is approved, great work!"}}
+{"instruction": "Update susan's email to susan@company.com", "output": {"type": "update", "action": "update", "name": "susan", "email": "susan@company.com"}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@company.com"}}
+{"instruction": "Add caixintong with email caixintong@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "caixintong", "email": "caixintong@student.ncku.edu.tw"}}
+{"instruction": "Add sarah with email sarah@gmail.com", "output": {"type": "update", "action": "add", "name": "sarah", "email": "sarah@gmail.com"}}
+{"instruction": "Update caixintong's email to caixintong@gmail.com", "output": {"type": "update", "action": "update", "name": "caixintong", "email": "caixintong@gmail.com"}}
+{"instruction": "Send jim an email saying Please review the agenda.", "output": {"type": "email", "receiver": "jim@student.ncku.edu.tw", "subject": "PR approved", "body": "Please review the agenda."}}
+{"instruction": "Send susan an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "susan@gmail.com", "subject": "Meeting tomorrow", "body": "Let's meet at 10am."}}
+{"instruction": "Update mike's email to mike@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "mike", "email": "mike@gs.ncku.edu.tw"}}
+{"instruction": "Delete jim from contacts", "output": {"type": "update", "action": "delete", "name": "jim", "email": "jim@company.com"}}
+{"instruction": "Send kevin an email saying We have started the project.", "output": {"type": "email", "receiver": "kevin@student.ncku.edu.tw", "subject": "PR approved", "body": "We have started the project."}}
+{"instruction": "Send sarah an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "sarah@student.ncku.edu.tw", "subject": "Welcome aboard", "body": "Looking forward to your reply."}}
+{"instruction": "Delete kevin from contacts", "output": {"type": "update", "action": "delete", "name": "kevin", "email": "kevin@company.com"}}
+{"instruction": "Add mike with email mike@gmail.com", "output": {"type": "update", "action": "add", "name": "mike", "email": "mike@gmail.com"}}
+{"instruction": "Send kevin an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "kevin@gmail.com", "subject": "Thanks", "body": "Can we move to next Monday?"}}
+{"instruction": "Send kevin an email saying Please review the agenda.", "output": {"type": "email", "receiver": "kevin@gs.ncku.edu.tw", "subject": "Check-in", "body": "Please review the agenda."}}
+{"instruction": "Send jim an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "jim@student.ncku.edu.tw", "subject": "Reminder", "body": "Let's touch base at noon."}}
+{"instruction": "Update bob's email to bob@example.com", "output": {"type": "update", "action": "update", "name": "bob", "email": "bob@example.com"}}
+{"instruction": "Send tom an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "tom@example.com", "subject": "Thanks", "body": "Appreciate your help on this."}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@example.com"}}
+{"instruction": "Add susan with email susan@example.com", "output": {"type": "update", "action": "add", "name": "susan", "email": "susan@example.com"}}
+{"instruction": "Send linda an email saying We have started the project.", "output": {"type": "email", "receiver": "linda@gmail.com", "subject": "Follow-up", "body": "We have started the project."}}
+{"instruction": "Send linda an email saying Great to have you with us.", "output": {"type": "email", "receiver": "linda@example.com", "subject": "Welcome aboard", "body": "Great to have you with us."}}
+{"instruction": "Delete linda from contacts", "output": {"type": "update", "action": "delete", "name": "linda", "email": "linda@example.com"}}
+{"instruction": "Send caixintong an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "caixintong@gs.ncku.edu.tw", "subject": "Meeting tomorrow", "body": "Can we move to next Monday?"}}
+{"instruction": "Send caixintong an email saying We have started the project.", "output": {"type": "email", "receiver": "caixintong@example.com", "subject": "Reminder", "body": "We have started the project."}}
+{"instruction": "Send kevin an email saying Great to have you with us.", "output": {"type": "email", "receiver": "kevin@gs.ncku.edu.tw", "subject": "Project kickoff", "body": "Great to have you with us."}}
+{"instruction": "Add susan with email susan@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "susan", "email": "susan@gs.ncku.edu.tw"}}
+{"instruction": "Add jim with email jim@example.com", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@example.com"}}
+{"instruction": "Send linda an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "linda@gmail.com", "subject": "Reschedule request", "body": "Your PR is approved, great work!"}}
+{"instruction": "Update tom's email to tom@example.com", "output": {"type": "update", "action": "update", "name": "tom", "email": "tom@example.com"}}
+{"instruction": "Send bob an email saying We have started the project.", "output": {"type": "email", "receiver": "bob@gs.ncku.edu.tw", "subject": "PR approved", "body": "We have started the project."}}
+{"instruction": "Send susan an email saying Please review the agenda.", "output": {"type": "email", "receiver": "susan@gmail.com", "subject": "Thanks", "body": "Please review the agenda."}}
+{"instruction": "Add sarah with email sarah@example.com", "output": {"type": "update", "action": "add", "name": "sarah", "email": "sarah@example.com"}}
+{"instruction": "Send susan an email saying Please review the agenda.", "output": {"type": "email", "receiver": "susan@gmail.com", "subject": "Project kickoff", "body": "Please review the agenda."}}
+{"instruction": "Send kevin an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "kevin@student.ncku.edu.tw", "subject": "Thanks", "body": "Can we move to next Monday?"}}
+{"instruction": "Delete tom from contacts", "output": {"type": "update", "action": "delete", "name": "tom", "email": "tom@student.ncku.edu.tw"}}
+{"instruction": "Send jim an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "jim@student.ncku.edu.tw", "subject": "Follow-up", "body": "Don't forget the deadline."}}
+{"instruction": "Update caixintong's email to caixintong@example.com", "output": {"type": "update", "action": "update", "name": "caixintong", "email": "caixintong@example.com"}}
+{"instruction": "Add jim with email jim@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@gs.ncku.edu.tw"}}
+{"instruction": "Send kevin an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "kevin@gs.ncku.edu.tw", "subject": "Reschedule request", "body": "Don't forget the deadline."}}
+{"instruction": "Add susan with email susan@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "susan", "email": "susan@student.ncku.edu.tw"}}
+{"instruction": "Send sarah an email saying We have started the project.", "output": {"type": "email", "receiver": "sarah@example.com", "subject": "Agenda attached", "body": "We have started the project."}}
+{"instruction": "Send tom an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "tom@example.com", "subject": "Reminder", "body": "Appreciate your help on this."}}
+{"instruction": "Update linda's email to linda@company.com", "output": {"type": "update", "action": "update", "name": "linda", "email": "linda@company.com"}}
+{"instruction": "Delete kevin from contacts", "output": {"type": "update", "action": "delete", "name": "kevin", "email": "kevin@company.com"}}
+{"instruction": "Update kevin's email to kevin@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "kevin", "email": "kevin@gs.ncku.edu.tw"}}
+{"instruction": "Add tom with email tom@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "tom", "email": "tom@gs.ncku.edu.tw"}}
+{"instruction": "Add susan with email susan@gmail.com", "output": {"type": "update", "action": "add", "name": "susan", "email": "susan@gmail.com"}}
+{"instruction": "Update linda's email to linda@company.com", "output": {"type": "update", "action": "update", "name": "linda", "email": "linda@company.com"}}
+{"instruction": "Send linda an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "linda@gmail.com", "subject": "Reminder", "body": "Don't forget the deadline."}}
+{"instruction": "Send mike an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "mike@company.com", "subject": "Welcome aboard", "body": "Let's meet at 10am."}}
+{"instruction": "Add caixintong with email caixintong@company.com", "output": {"type": "update", "action": "add", "name": "caixintong", "email": "caixintong@company.com"}}
+{"instruction": "Send susan an email saying We have started the project.", "output": {"type": "email", "receiver": "susan@company.com", "subject": "PR approved", "body": "We have started the project."}}
+{"instruction": "Add caixintong with email caixintong@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "caixintong", "email": "caixintong@student.ncku.edu.tw"}}
+{"instruction": "Send linda an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "linda@gmail.com", "subject": "Follow-up", "body": "Appreciate your help on this."}}
+{"instruction": "Send kevin an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "kevin@gs.ncku.edu.tw", "subject": "Reminder", "body": "Looking forward to your reply."}}
+{"instruction": "Send caixintong an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "caixintong@gmail.com", "subject": "Project kickoff", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send sarah an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "sarah@gs.ncku.edu.tw", "subject": "Project kickoff", "body": "Can we move to next Monday?"}}
+{"instruction": "Delete caixintong from contacts", "output": {"type": "update", "action": "delete", "name": "caixintong", "email": "caixintong@company.com"}}
+{"instruction": "Send tom an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "tom@company.com", "subject": "Meeting tomorrow", "body": "Don't forget the deadline."}}
+{"instruction": "Send linda an email saying Great to have you with us.", "output": {"type": "email", "receiver": "linda@example.com", "subject": "Project kickoff", "body": "Great to have you with us."}}
+{"instruction": "Send susan an email saying We have started the project.", "output": {"type": "email", "receiver": "susan@gmail.com", "subject": "Meeting tomorrow", "body": "We have started the project."}}
+{"instruction": "Send kevin an email saying Great to have you with us.", "output": {"type": "email", "receiver": "kevin@company.com", "subject": "Follow-up", "body": "Great to have you with us."}}
+{"instruction": "Send jim an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "jim@gmail.com", "subject": "Check-in", "body": "Can we move to next Monday?"}}
+{"instruction": "Send alice an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "alice@student.ncku.edu.tw", "subject": "Agenda attached", "body": "Let's meet at 10am."}}
+{"instruction": "Add susan with email susan@gmail.com", "output": {"type": "update", "action": "add", "name": "susan", "email": "susan@gmail.com"}}
+{"instruction": "Update mike's email to mike@company.com", "output": {"type": "update", "action": "update", "name": "mike", "email": "mike@company.com"}}
+{"instruction": "Send jim an email saying We have started the project.", "output": {"type": "email", "receiver": "jim@gmail.com", "subject": "Project kickoff", "body": "We have started the project."}}
+{"instruction": "Send bob an email saying Please review the agenda.", "output": {"type": "email", "receiver": "bob@gmail.com", "subject": "Agenda attached", "body": "Please review the agenda."}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@gs.ncku.edu.tw"}}
+{"instruction": "Send caixintong an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "caixintong@student.ncku.edu.tw", "subject": "Follow-up", "body": "Appreciate your help on this."}}
+{"instruction": "Delete linda from contacts", "output": {"type": "update", "action": "delete", "name": "linda", "email": "linda@company.com"}}
+{"instruction": "Update tom's email to tom@company.com", "output": {"type": "update", "action": "update", "name": "tom", "email": "tom@company.com"}}
+{"instruction": "Send alice an email saying Great to have you with us.", "output": {"type": "email", "receiver": "alice@student.ncku.edu.tw", "subject": "Project kickoff", "body": "Great to have you with us."}}
+{"instruction": "Delete tom from contacts", "output": {"type": "update", "action": "delete", "name": "tom", "email": "tom@gs.ncku.edu.tw"}}
+{"instruction": "Update kevin's email to kevin@gmail.com", "output": {"type": "update", "action": "update", "name": "kevin", "email": "kevin@gmail.com"}}
+{"instruction": "Send caixintong an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "caixintong@gs.ncku.edu.tw", "subject": "Reminder", "body": "Can we move to next Monday?"}}
+{"instruction": "Delete tom from contacts", "output": {"type": "update", "action": "delete", "name": "tom", "email": "tom@student.ncku.edu.tw"}}
+{"instruction": "Send sarah an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "sarah@gs.ncku.edu.tw", "subject": "Follow-up", "body": "Appreciate your help on this."}}
+{"instruction": "Update mike's email to mike@company.com", "output": {"type": "update", "action": "update", "name": "mike", "email": "mike@company.com"}}
+{"instruction": "Send caixintong an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "caixintong@gs.ncku.edu.tw", "subject": "Follow-up", "body": "Let's touch base at noon."}}
+{"instruction": "Send linda an email saying Please review the agenda.", "output": {"type": "email", "receiver": "linda@gmail.com", "subject": "Agenda attached", "body": "Please review the agenda."}}
+{"instruction": "Send alice an email saying Please review the agenda.", "output": {"type": "email", "receiver": "alice@company.com", "subject": "Meeting tomorrow", "body": "Please review the agenda."}}
+{"instruction": "Send bob an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "bob@student.ncku.edu.tw", "subject": "Welcome aboard", "body": "Let's meet at 10am."}}
+{"instruction": "Delete caixintong from contacts", "output": {"type": "update", "action": "delete", "name": "caixintong", "email": "caixintong@example.com"}}
+{"instruction": "Delete caixintong from contacts", "output": {"type": "update", "action": "delete", "name": "caixintong", "email": "caixintong@student.ncku.edu.tw"}}
+{"instruction": "Update bob's email to bob@gmail.com", "output": {"type": "update", "action": "update", "name": "bob", "email": "bob@gmail.com"}}
+{"instruction": "Send susan an email saying We have started the project.", "output": {"type": "email", "receiver": "susan@example.com", "subject": "Project kickoff", "body": "We have started the project."}}
+{"instruction": "Send sarah an email saying We have started the project.", "output": {"type": "email", "receiver": "sarah@student.ncku.edu.tw", "subject": "Welcome aboard", "body": "We have started the project."}}
+{"instruction": "Update kevin's email to kevin@gmail.com", "output": {"type": "update", "action": "update", "name": "kevin", "email": "kevin@gmail.com"}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@example.com"}}
+{"instruction": "Send kevin an email saying We have started the project.", "output": {"type": "email", "receiver": "kevin@student.ncku.edu.tw", "subject": "Reminder", "body": "We have started the project."}}
+{"instruction": "Send bob an email saying Please review the agenda.", "output": {"type": "email", "receiver": "bob@gmail.com", "subject": "Agenda attached", "body": "Please review the agenda."}}
+{"instruction": "Delete kevin from contacts", "output": {"type": "update", "action": "delete", "name": "kevin", "email": "kevin@gs.ncku.edu.tw"}}
+{"instruction": "Update sarah's email to sarah@company.com", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@company.com"}}
+{"instruction": "Send tom an email saying Please review the agenda.", "output": {"type": "email", "receiver": "tom@gmail.com", "subject": "Project kickoff", "body": "Please review the agenda."}}
+{"instruction": "Update alice's email to alice@example.com", "output": {"type": "update", "action": "update", "name": "alice", "email": "alice@example.com"}}
+{"instruction": "Delete kevin from contacts", "output": {"type": "update", "action": "delete", "name": "kevin", "email": "kevin@gs.ncku.edu.tw"}}
+{"instruction": "Delete tom from contacts", "output": {"type": "update", "action": "delete", "name": "tom", "email": "tom@example.com"}}
+{"instruction": "Update alice's email to alice@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "alice", "email": "alice@gs.ncku.edu.tw"}}
+{"instruction": "Send jim an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "jim@company.com", "subject": "Welcome aboard", "body": "Can we move to next Monday?"}}
+{"instruction": "Send alice an email saying We have started the project.", "output": {"type": "email", "receiver": "alice@gs.ncku.edu.tw", "subject": "Check-in", "body": "We have started the project."}}
+{"instruction": "Send alice an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "alice@gmail.com", "subject": "Follow-up", "body": "Don't forget the deadline."}}
+{"instruction": "Delete kevin from contacts", "output": {"type": "update", "action": "delete", "name": "kevin", "email": "kevin@gmail.com"}}
+{"instruction": "Add jim with email jim@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@student.ncku.edu.tw"}}
+{"instruction": "Delete sarah from contacts", "output": {"type": "update", "action": "delete", "name": "sarah", "email": "sarah@gmail.com"}}
+{"instruction": "Add jim with email jim@example.com", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@example.com"}}
+{"instruction": "Delete mike from contacts", "output": {"type": "update", "action": "delete", "name": "mike", "email": "mike@gmail.com"}}
+{"instruction": "Update jim's email to jim@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "jim", "email": "jim@gs.ncku.edu.tw"}}
+{"instruction": "Send bob an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "bob@company.com", "subject": "Thanks", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send jim an email saying Great to have you with us.", "output": {"type": "email", "receiver": "jim@gmail.com", "subject": "Reschedule request", "body": "Great to have you with us."}}
+{"instruction": "Send kevin an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "kevin@gs.ncku.edu.tw", "subject": "Welcome aboard", "body": "Can we move to next Monday?"}}
+{"instruction": "Send linda an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "linda@gmail.com", "subject": "Reminder", "body": "Can we move to next Monday?"}}
+{"instruction": "Add jim with email jim@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "jim", "email": "jim@student.ncku.edu.tw"}}
+{"instruction": "Add tom with email tom@example.com", "output": {"type": "update", "action": "add", "name": "tom", "email": "tom@example.com"}}
+{"instruction": "Update susan's email to susan@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "susan", "email": "susan@student.ncku.edu.tw"}}
+{"instruction": "Send kevin an email saying We have started the project.", "output": {"type": "email", "receiver": "kevin@company.com", "subject": "Agenda attached", "body": "We have started the project."}}
+{"instruction": "Send jim an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "jim@gs.ncku.edu.tw", "subject": "PR approved", "body": "Looking forward to your reply."}}
+{"instruction": "Delete linda from contacts", "output": {"type": "update", "action": "delete", "name": "linda", "email": "linda@company.com"}}
+{"instruction": "Delete bob from contacts", "output": {"type": "update", "action": "delete", "name": "bob", "email": "bob@student.ncku.edu.tw"}}
+{"instruction": "Send caixintong an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "caixintong@student.ncku.edu.tw", "subject": "Reschedule request", "body": "Looking forward to your reply."}}
+{"instruction": "Send susan an email saying We have started the project.", "output": {"type": "email", "receiver": "susan@gs.ncku.edu.tw", "subject": "PR approved", "body": "We have started the project."}}
+{"instruction": "Add kevin with email kevin@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "kevin", "email": "kevin@gs.ncku.edu.tw"}}
+{"instruction": "Delete linda from contacts", "output": {"type": "update", "action": "delete", "name": "linda", "email": "linda@example.com"}}
+{"instruction": "Send susan an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "susan@student.ncku.edu.tw", "subject": "Agenda attached", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send susan an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "susan@gs.ncku.edu.tw", "subject": "Thanks", "body": "Let's touch base at noon."}}
+{"instruction": "Send linda an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "linda@gmail.com", "subject": "Reschedule request", "body": "Let's touch base at noon."}}
+{"instruction": "Send jim an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "jim@example.com", "subject": "Agenda attached", "body": "Let's touch base at noon."}}
+{"instruction": "Update bob's email to bob@company.com", "output": {"type": "update", "action": "update", "name": "bob", "email": "bob@company.com"}}
+{"instruction": "Add sarah with email sarah@example.com", "output": {"type": "update", "action": "add", "name": "sarah", "email": "sarah@example.com"}}
+{"instruction": "Delete jim from contacts", "output": {"type": "update", "action": "delete", "name": "jim", "email": "jim@gs.ncku.edu.tw"}}
+{"instruction": "Delete kevin from contacts", "output": {"type": "update", "action": "delete", "name": "kevin", "email": "kevin@example.com"}}
+{"instruction": "Send linda an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "linda@gmail.com", "subject": "Project kickoff", "body": "Appreciate your help on this."}}
+{"instruction": "Send susan an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "susan@student.ncku.edu.tw", "subject": "Project kickoff", "body": "Don't forget the deadline."}}
+{"instruction": "Send tom an email saying Great to have you with us.", "output": {"type": "email", "receiver": "tom@gs.ncku.edu.tw", "subject": "Check-in", "body": "Great to have you with us."}}
+{"instruction": "Send jim an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "jim@company.com", "subject": "Meeting tomorrow", "body": "Can we move to next Monday?"}}
+{"instruction": "Send bob an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "bob@gmail.com", "subject": "Agenda attached", "body": "Let's touch base at noon."}}
+{"instruction": "Delete bob from contacts", "output": {"type": "update", "action": "delete", "name": "bob", "email": "bob@example.com"}}
+{"instruction": "Update alice's email to alice@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "alice", "email": "alice@gs.ncku.edu.tw"}}
+{"instruction": "Send bob an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "bob@company.com", "subject": "Welcome aboard", "body": "Can we move to next Monday?"}}
+{"instruction": "Send jim an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "jim@student.ncku.edu.tw", "subject": "Reminder", "body": "Can we move to next Monday?"}}
+{"instruction": "Add tom with email tom@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "tom", "email": "tom@gs.ncku.edu.tw"}}
+{"instruction": "Update jim's email to jim@example.com", "output": {"type": "update", "action": "update", "name": "jim", "email": "jim@example.com"}}
+{"instruction": "Add sarah with email sarah@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "sarah", "email": "sarah@gs.ncku.edu.tw"}}
+{"instruction": "Send mike an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "mike@gmail.com", "subject": "Agenda attached", "body": "Don't forget the deadline."}}
+{"instruction": "Delete mike from contacts", "output": {"type": "update", "action": "delete", "name": "mike", "email": "mike@company.com"}}
+{"instruction": "Add susan with email susan@gmail.com", "output": {"type": "update", "action": "add", "name": "susan", "email": "susan@gmail.com"}}
+{"instruction": "Send caixintong an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "caixintong@gmail.com", "subject": "Project kickoff", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send caixintong an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "caixintong@gs.ncku.edu.tw", "subject": "Thanks", "body": "Your PR is approved, great work!"}}
+{"instruction": "Update linda's email to linda@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "linda", "email": "linda@gs.ncku.edu.tw"}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@gs.ncku.edu.tw"}}
+{"instruction": "Add caixintong with email caixintong@example.com", "output": {"type": "update", "action": "add", "name": "caixintong", "email": "caixintong@example.com"}}
+{"instruction": "Send tom an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "tom@gs.ncku.edu.tw", "subject": "Agenda attached", "body": "Let's meet at 10am."}}
+{"instruction": "Send jim an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "jim@company.com", "subject": "Welcome aboard", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send alice an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "alice@gs.ncku.edu.tw", "subject": "Reschedule request", "body": "Appreciate your help on this."}}
+{"instruction": "Send sarah an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "sarah@example.com", "subject": "Reminder", "body": "Let's touch base at noon."}}
+{"instruction": "Update tom's email to tom@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "tom", "email": "tom@gs.ncku.edu.tw"}}
+{"instruction": "Add alice with email alice@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "alice", "email": "alice@gs.ncku.edu.tw"}}
+{"instruction": "Add linda with email linda@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "linda", "email": "linda@gs.ncku.edu.tw"}}
+{"instruction": "Update caixintong's email to caixintong@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "caixintong", "email": "caixintong@student.ncku.edu.tw"}}
+{"instruction": "Send mike an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "mike@example.com", "subject": "Check-in", "body": "Let's touch base at noon."}}
+{"instruction": "Update jim's email to jim@gmail.com", "output": {"type": "update", "action": "update", "name": "jim", "email": "jim@gmail.com"}}
+{"instruction": "Send sarah an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "sarah@student.ncku.edu.tw", "subject": "Welcome aboard", "body": "Can we move to next Monday?"}}
+{"instruction": "Send sarah an email saying Please review the agenda.", "output": {"type": "email", "receiver": "sarah@company.com", "subject": "Agenda attached", "body": "Please review the agenda."}}
+{"instruction": "Send jim an email saying Please review the agenda.", "output": {"type": "email", "receiver": "jim@company.com", "subject": "Follow-up", "body": "Please review the agenda."}}
+{"instruction": "Update caixintong's email to caixintong@company.com", "output": {"type": "update", "action": "update", "name": "caixintong", "email": "caixintong@company.com"}}
+{"instruction": "Send alice an email saying Please review the agenda.", "output": {"type": "email", "receiver": "alice@student.ncku.edu.tw", "subject": "Follow-up", "body": "Please review the agenda."}}
+{"instruction": "Send sarah an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "sarah@gmail.com", "subject": "Project kickoff", "body": "Can we move to next Monday?"}}
+{"instruction": "Update alice's email to alice@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "alice", "email": "alice@gs.ncku.edu.tw"}}
+{"instruction": "Update sarah's email to sarah@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@gs.ncku.edu.tw"}}
+{"instruction": "Update sarah's email to sarah@company.com", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@company.com"}}
+{"instruction": "Add sarah with email sarah@example.com", "output": {"type": "update", "action": "add", "name": "sarah", "email": "sarah@example.com"}}
+{"instruction": "Add linda with email linda@company.com", "output": {"type": "update", "action": "add", "name": "linda", "email": "linda@company.com"}}
+{"instruction": "Delete alice from contacts", "output": {"type": "update", "action": "delete", "name": "alice", "email": "alice@student.ncku.edu.tw"}}
+{"instruction": "Send sarah an email saying Great to have you with us.", "output": {"type": "email", "receiver": "sarah@gmail.com", "subject": "Meeting tomorrow", "body": "Great to have you with us."}}
+{"instruction": "Delete mike from contacts", "output": {"type": "update", "action": "delete", "name": "mike", "email": "mike@gs.ncku.edu.tw"}}
+{"instruction": "Update mike's email to mike@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "mike", "email": "mike@student.ncku.edu.tw"}}
+{"instruction": "Add kevin with email kevin@example.com", "output": {"type": "update", "action": "add", "name": "kevin", "email": "kevin@example.com"}}
+{"instruction": "Send susan an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "susan@gmail.com", "subject": "Agenda attached", "body": "Don't forget the deadline."}}
+{"instruction": "Send alice an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "alice@example.com", "subject": "Reminder", "body": "Appreciate your help on this."}}
+{"instruction": "Send tom an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "tom@example.com", "subject": "Reminder", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send sarah an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "sarah@gmail.com", "subject": "Follow-up", "body": "Let's meet at 10am."}}
+{"instruction": "Add susan with email susan@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "susan", "email": "susan@student.ncku.edu.tw"}}
+{"instruction": "Send caixintong an email saying Please review the agenda.", "output": {"type": "email", "receiver": "caixintong@student.ncku.edu.tw", "subject": "Check-in", "body": "Please review the agenda."}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@gmail.com"}}
+{"instruction": "Update alice's email to alice@example.com", "output": {"type": "update", "action": "update", "name": "alice", "email": "alice@example.com"}}
+{"instruction": "Update mike's email to mike@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "mike", "email": "mike@gs.ncku.edu.tw"}}
+{"instruction": "Update mike's email to mike@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "mike", "email": "mike@student.ncku.edu.tw"}}
+{"instruction": "Delete tom from contacts", "output": {"type": "update", "action": "delete", "name": "tom", "email": "tom@gs.ncku.edu.tw"}}
+{"instruction": "Send bob an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "bob@gs.ncku.edu.tw", "subject": "Thanks", "body": "Don't forget the deadline."}}
+{"instruction": "Delete bob from contacts", "output": {"type": "update", "action": "delete", "name": "bob", "email": "bob@gmail.com"}}
+{"instruction": "Send tom an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "tom@student.ncku.edu.tw", "subject": "PR approved", "body": "Looking forward to your reply."}}
+{"instruction": "Update bob's email to bob@company.com", "output": {"type": "update", "action": "update", "name": "bob", "email": "bob@company.com"}}
+{"instruction": "Update kevin's email to kevin@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "kevin", "email": "kevin@student.ncku.edu.tw"}}
+{"instruction": "Send caixintong an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "caixintong@gmail.com", "subject": "Project kickoff", "body": "Don't forget the deadline."}}
+{"instruction": "Update linda's email to linda@gmail.com", "output": {"type": "update", "action": "update", "name": "linda", "email": "linda@gmail.com"}}
+{"instruction": "Delete sarah from contacts", "output": {"type": "update", "action": "delete", "name": "sarah", "email": "sarah@gmail.com"}}
+{"instruction": "Send jim an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "jim@company.com", "subject": "Reschedule request", "body": "Looking forward to your reply."}}
+{"instruction": "Send linda an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "linda@example.com", "subject": "Follow-up", "body": "Don't forget the deadline."}}
+{"instruction": "Send jim an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "jim@example.com", "subject": "Thanks", "body": "Don't forget the deadline."}}
+{"instruction": "Add susan with email susan@gmail.com", "output": {"type": "update", "action": "add", "name": "susan", "email": "susan@gmail.com"}}
+{"instruction": "Send susan an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "susan@student.ncku.edu.tw", "subject": "Agenda attached", "body": "Let's touch base at noon."}}
+{"instruction": "Send bob an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "bob@gs.ncku.edu.tw", "subject": "Reschedule request", "body": "Appreciate your help on this."}}
+{"instruction": "Delete tom from contacts", "output": {"type": "update", "action": "delete", "name": "tom", "email": "tom@student.ncku.edu.tw"}}
+{"instruction": "Send tom an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "tom@gmail.com", "subject": "Check-in", "body": "Don't forget the deadline."}}
+{"instruction": "Send alice an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "alice@example.com", "subject": "PR approved", "body": "Let's meet at 10am."}}
+{"instruction": "Add linda with email linda@example.com", "output": {"type": "update", "action": "add", "name": "linda", "email": "linda@example.com"}}
+{"instruction": "Send kevin an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "kevin@student.ncku.edu.tw", "subject": "Welcome aboard", "body": "Don't forget the deadline."}}
+{"instruction": "Update caixintong's email to caixintong@gmail.com", "output": {"type": "update", "action": "update", "name": "caixintong", "email": "caixintong@gmail.com"}}
+{"instruction": "Send bob an email saying We have started the project.", "output": {"type": "email", "receiver": "bob@gmail.com", "subject": "Project kickoff", "body": "We have started the project."}}
+{"instruction": "Send bob an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "bob@gmail.com", "subject": "PR approved", "body": "Appreciate your help on this."}}
+{"instruction": "Update jim's email to jim@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "jim", "email": "jim@gs.ncku.edu.tw"}}
+{"instruction": "Add alice with email alice@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "alice", "email": "alice@student.ncku.edu.tw"}}
+{"instruction": "Add kevin with email kevin@example.com", "output": {"type": "update", "action": "add", "name": "kevin", "email": "kevin@example.com"}}
+{"instruction": "Send tom an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "tom@gs.ncku.edu.tw", "subject": "Project kickoff", "body": "Let's meet at 10am."}}
+{"instruction": "Add susan with email susan@gmail.com", "output": {"type": "update", "action": "add", "name": "susan", "email": "susan@gmail.com"}}
+{"instruction": "Delete alice from contacts", "output": {"type": "update", "action": "delete", "name": "alice", "email": "alice@example.com"}}
+{"instruction": "Send bob an email saying Great to have you with us.", "output": {"type": "email", "receiver": "bob@student.ncku.edu.tw", "subject": "Reminder", "body": "Great to have you with us."}}
+{"instruction": "Send bob an email saying Great to have you with us.", "output": {"type": "email", "receiver": "bob@gmail.com", "subject": "Thanks", "body": "Great to have you with us."}}
+{"instruction": "Add tom with email tom@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "tom", "email": "tom@student.ncku.edu.tw"}}
+{"instruction": "Send linda an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "linda@example.com", "subject": "Reminder", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send kevin an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "kevin@company.com", "subject": "Meeting tomorrow", "body": "Let's touch base at noon."}}
+{"instruction": "Send tom an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "tom@gs.ncku.edu.tw", "subject": "Reminder", "body": "Appreciate your help on this."}}
+{"instruction": "Update caixintong's email to caixintong@gmail.com", "output": {"type": "update", "action": "update", "name": "caixintong", "email": "caixintong@gmail.com"}}
+{"instruction": "Send tom an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "tom@example.com", "subject": "Meeting tomorrow", "body": "Let's touch base at noon."}}
+{"instruction": "Send linda an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "linda@example.com", "subject": "Check-in", "body": "Let's touch base at noon."}}
+{"instruction": "Send linda an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "linda@gmail.com", "subject": "Follow-up", "body": "Appreciate your help on this."}}
+{"instruction": "Send bob an email saying We have started the project.", "output": {"type": "email", "receiver": "bob@gs.ncku.edu.tw", "subject": "PR approved", "body": "We have started the project."}}
+{"instruction": "Update kevin's email to kevin@gmail.com", "output": {"type": "update", "action": "update", "name": "kevin", "email": "kevin@gmail.com"}}
+{"instruction": "Update sarah's email to sarah@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@student.ncku.edu.tw"}}
+{"instruction": "Delete jim from contacts", "output": {"type": "update", "action": "delete", "name": "jim", "email": "jim@gmail.com"}}
+{"instruction": "Send alice an email saying We have started the project.", "output": {"type": "email", "receiver": "alice@gmail.com", "subject": "PR approved", "body": "We have started the project."}}
+{"instruction": "Send kevin an email saying We have started the project.", "output": {"type": "email", "receiver": "kevin@gs.ncku.edu.tw", "subject": "Reschedule request", "body": "We have started the project."}}
+{"instruction": "Update tom's email to tom@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "tom", "email": "tom@gs.ncku.edu.tw"}}
+{"instruction": "Delete bob from contacts", "output": {"type": "update", "action": "delete", "name": "bob", "email": "bob@example.com"}}
+{"instruction": "Send sarah an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "sarah@gmail.com", "subject": "PR approved", "body": "Let's meet at 10am."}}
+{"instruction": "Send susan an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "susan@student.ncku.edu.tw", "subject": "PR approved", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send tom an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "tom@company.com", "subject": "Thanks", "body": "Your PR is approved, great work!"}}
+{"instruction": "Send sarah an email saying We have started the project.", "output": {"type": "email", "receiver": "sarah@gs.ncku.edu.tw", "subject": "Thanks", "body": "We have started the project."}}
+{"instruction": "Send sarah an email saying Looking forward to your reply.", "output": {"type": "email", "receiver": "sarah@gs.ncku.edu.tw", "subject": "Reminder", "body": "Looking forward to your reply."}}
+{"instruction": "Delete alice from contacts", "output": {"type": "update", "action": "delete", "name": "alice", "email": "alice@company.com"}}
+{"instruction": "Delete tom from contacts", "output": {"type": "update", "action": "delete", "name": "tom", "email": "tom@gs.ncku.edu.tw"}}
+{"instruction": "Delete kevin from contacts", "output": {"type": "update", "action": "delete", "name": "kevin", "email": "kevin@gmail.com"}}
+{"instruction": "Send alice an email saying We have started the project.", "output": {"type": "email", "receiver": "alice@gmail.com", "subject": "PR approved", "body": "We have started the project."}}
+{"instruction": "Add kevin with email kevin@example.com", "output": {"type": "update", "action": "add", "name": "kevin", "email": "kevin@example.com"}}
+{"instruction": "Send mike an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "mike@gmail.com", "subject": "Check-in", "body": "Let's meet at 10am."}}
+{"instruction": "Add bob with email bob@company.com", "output": {"type": "update", "action": "add", "name": "bob", "email": "bob@company.com"}}
+{"instruction": "Delete jim from contacts", "output": {"type": "update", "action": "delete", "name": "jim", "email": "jim@company.com"}}
+{"instruction": "Delete bob from contacts", "output": {"type": "update", "action": "delete", "name": "bob", "email": "bob@student.ncku.edu.tw"}}
+{"instruction": "Delete jim from contacts", "output": {"type": "update", "action": "delete", "name": "jim", "email": "jim@company.com"}}
+{"instruction": "Update mike's email to mike@gs.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "mike", "email": "mike@gs.ncku.edu.tw"}}
+{"instruction": "Update alice's email to alice@company.com", "output": {"type": "update", "action": "update", "name": "alice", "email": "alice@company.com"}}
+{"instruction": "Add linda with email linda@company.com", "output": {"type": "update", "action": "add", "name": "linda", "email": "linda@company.com"}}
+{"instruction": "Update susan's email to susan@gmail.com", "output": {"type": "update", "action": "update", "name": "susan", "email": "susan@gmail.com"}}
+{"instruction": "Send mike an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "mike@student.ncku.edu.tw", "subject": "Welcome aboard", "body": "Let's touch base at noon."}}
+{"instruction": "Add bob with email bob@gmail.com", "output": {"type": "update", "action": "add", "name": "bob", "email": "bob@gmail.com"}}
+{"instruction": "Update tom's email to tom@gmail.com", "output": {"type": "update", "action": "update", "name": "tom", "email": "tom@gmail.com"}}
+{"instruction": "Send kevin an email saying Great to have you with us.", "output": {"type": "email", "receiver": "kevin@gmail.com", "subject": "Follow-up", "body": "Great to have you with us."}}
+{"instruction": "Send linda an email saying Great to have you with us.", "output": {"type": "email", "receiver": "linda@student.ncku.edu.tw", "subject": "Thanks", "body": "Great to have you with us."}}
+{"instruction": "Send sarah an email saying Great to have you with us.", "output": {"type": "email", "receiver": "sarah@company.com", "subject": "Reminder", "body": "Great to have you with us."}}
+{"instruction": "Add alice with email alice@company.com", "output": {"type": "update", "action": "add", "name": "alice", "email": "alice@company.com"}}
+{"instruction": "Send tom an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "tom@company.com", "subject": "Reminder", "body": "Can we move to next Monday?"}}
+{"instruction": "Send linda an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "linda@student.ncku.edu.tw", "subject": "Meeting tomorrow", "body": "Let's meet at 10am."}}
+{"instruction": "Send tom an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "tom@gs.ncku.edu.tw", "subject": "Check-in", "body": "Let's meet at 10am."}}
+{"instruction": "Add alice with email alice@gmail.com", "output": {"type": "update", "action": "add", "name": "alice", "email": "alice@gmail.com"}}
+{"instruction": "Delete kevin from contacts", "output": {"type": "update", "action": "delete", "name": "kevin", "email": "kevin@example.com"}}
+{"instruction": "Send jim an email saying We have started the project.", "output": {"type": "email", "receiver": "jim@gs.ncku.edu.tw", "subject": "Reminder", "body": "We have started the project."}}
+{"instruction": "Add alice with email alice@example.com", "output": {"type": "update", "action": "add", "name": "alice", "email": "alice@example.com"}}
+{"instruction": "Send susan an email saying Please review the agenda.", "output": {"type": "email", "receiver": "susan@example.com", "subject": "Meeting tomorrow", "body": "Please review the agenda."}}
+{"instruction": "Delete kevin from contacts", "output": {"type": "update", "action": "delete", "name": "kevin", "email": "kevin@student.ncku.edu.tw"}}
+{"instruction": "Update mike's email to mike@example.com", "output": {"type": "update", "action": "update", "name": "mike", "email": "mike@example.com"}}
+{"instruction": "Update susan's email to susan@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "susan", "email": "susan@student.ncku.edu.tw"}}
+{"instruction": "Add kevin with email kevin@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "kevin", "email": "kevin@gs.ncku.edu.tw"}}
+{"instruction": "Send caixintong an email saying Let's touch base at noon.", "output": {"type": "email", "receiver": "caixintong@gs.ncku.edu.tw", "subject": "Welcome aboard", "body": "Let's touch base at noon."}}
+{"instruction": "Update sarah's email to sarah@company.com", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@company.com"}}
+{"instruction": "Delete bob from contacts", "output": {"type": "update", "action": "delete", "name": "bob", "email": "bob@student.ncku.edu.tw"}}
+{"instruction": "Add bob with email bob@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "bob", "email": "bob@student.ncku.edu.tw"}}
+{"instruction": "Delete bob from contacts", "output": {"type": "update", "action": "delete", "name": "bob", "email": "bob@student.ncku.edu.tw"}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@gmail.com"}}
+{"instruction": "Add mike with email mike@company.com", "output": {"type": "update", "action": "add", "name": "mike", "email": "mike@company.com"}}
+{"instruction": "Update sarah's email to sarah@gmail.com", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@gmail.com"}}
+{"instruction": "Delete jim from contacts", "output": {"type": "update", "action": "delete", "name": "jim", "email": "jim@student.ncku.edu.tw"}}
+{"instruction": "Send tom an email saying We have started the project.", "output": {"type": "email", "receiver": "tom@company.com", "subject": "Project kickoff", "body": "We have started the project."}}
+{"instruction": "Update jim's email to jim@example.com", "output": {"type": "update", "action": "update", "name": "jim", "email": "jim@example.com"}}
+{"instruction": "Send sarah an email saying Appreciate your help on this.", "output": {"type": "email", "receiver": "sarah@gs.ncku.edu.tw", "subject": "Meeting tomorrow", "body": "Appreciate your help on this."}}
+{"instruction": "Delete caixintong from contacts", "output": {"type": "update", "action": "delete", "name": "caixintong", "email": "caixintong@company.com"}}
+{"instruction": "Delete alice from contacts", "output": {"type": "update", "action": "delete", "name": "alice", "email": "alice@gs.ncku.edu.tw"}}
+{"instruction": "Add caixintong with email caixintong@company.com", "output": {"type": "update", "action": "add", "name": "caixintong", "email": "caixintong@company.com"}}
+{"instruction": "Delete bob from contacts", "output": {"type": "update", "action": "delete", "name": "bob", "email": "bob@company.com"}}
+{"instruction": "Send alice an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "alice@student.ncku.edu.tw", "subject": "Agenda attached", "body": "Can we move to next Monday?"}}
+{"instruction": "Send jim an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "jim@company.com", "subject": "Reminder", "body": "Don't forget the deadline."}}
+{"instruction": "Update sarah's email to sarah@company.com", "output": {"type": "update", "action": "update", "name": "sarah", "email": "sarah@company.com"}}
+{"instruction": "Send alice an email saying Let's meet at 10am.", "output": {"type": "email", "receiver": "alice@company.com", "subject": "Project kickoff", "body": "Let's meet at 10am."}}
+{"instruction": "Send caixintong an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "caixintong@gmail.com", "subject": "PR approved", "body": "Don't forget the deadline."}}
+{"instruction": "Send mike an email saying Your PR is approved, great work!", "output": {"type": "email", "receiver": "mike@example.com", "subject": "Agenda attached", "body": "Your PR is approved, great work!"}}
+{"instruction": "Delete linda from contacts", "output": {"type": "update", "action": "delete", "name": "linda", "email": "linda@gmail.com"}}
+{"instruction": "Add mike with email mike@gs.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "mike", "email": "mike@gs.ncku.edu.tw"}}
+{"instruction": "Add sarah with email sarah@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "sarah", "email": "sarah@student.ncku.edu.tw"}}
+{"instruction": "Send sarah an email saying Great to have you with us.", "output": {"type": "email", "receiver": "sarah@student.ncku.edu.tw", "subject": "Thanks", "body": "Great to have you with us."}}
+{"instruction": "Update kevin's email to kevin@example.com", "output": {"type": "update", "action": "update", "name": "kevin", "email": "kevin@example.com"}}
+{"instruction": "Delete susan from contacts", "output": {"type": "update", "action": "delete", "name": "susan", "email": "susan@company.com"}}
+{"instruction": "Add alice with email alice@example.com", "output": {"type": "update", "action": "add", "name": "alice", "email": "alice@example.com"}}
+{"instruction": "Delete sarah from contacts", "output": {"type": "update", "action": "delete", "name": "sarah", "email": "sarah@gmail.com"}}
+{"instruction": "Send alice an email saying We have started the project.", "output": {"type": "email", "receiver": "alice@student.ncku.edu.tw", "subject": "Follow-up", "body": "We have started the project."}}
+{"instruction": "Add mike with email mike@student.ncku.edu.tw", "output": {"type": "update", "action": "add", "name": "mike", "email": "mike@student.ncku.edu.tw"}}
+{"instruction": "Update linda's email to linda@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "linda", "email": "linda@student.ncku.edu.tw"}}
+{"instruction": "Delete linda from contacts", "output": {"type": "update", "action": "delete", "name": "linda", "email": "linda@gs.ncku.edu.tw"}}
+{"instruction": "Update caixintong's email to caixintong@gmail.com", "output": {"type": "update", "action": "update", "name": "caixintong", "email": "caixintong@gmail.com"}}
+{"instruction": "Add kevin with email kevin@example.com", "output": {"type": "update", "action": "add", "name": "kevin", "email": "kevin@example.com"}}
+{"instruction": "Update alice's email to alice@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "alice", "email": "alice@student.ncku.edu.tw"}}
+{"instruction": "Update jim's email to jim@gmail.com", "output": {"type": "update", "action": "update", "name": "jim", "email": "jim@gmail.com"}}
+{"instruction": "Update jim's email to jim@example.com", "output": {"type": "update", "action": "update", "name": "jim", "email": "jim@example.com"}}
+{"instruction": "Update kevin's email to kevin@student.ncku.edu.tw", "output": {"type": "update", "action": "update", "name": "kevin", "email": "kevin@student.ncku.edu.tw"}}
+{"instruction": "Send mike an email saying Can we move to next Monday?", "output": {"type": "email", "receiver": "mike@gmail.com", "subject": "Follow-up", "body": "Can we move to next Monday?"}}
+{"instruction": "Send kevin an email saying We have started the project.", "output": {"type": "email", "receiver": "kevin@gmail.com", "subject": "Check-in", "body": "We have started the project."}}
+{"instruction": "Delete kevin from contacts", "output": {"type": "update", "action": "delete", "name": "kevin", "email": "kevin@gmail.com"}}
+{"instruction": "Delete caixintong from contacts", "output": {"type": "update", "action": "delete", "name": "caixintong", "email": "caixintong@gmail.com"}}
+{"instruction": "Send tom an email saying Don't forget the deadline.", "output": {"type": "email", "receiver": "tom@gs.ncku.edu.tw", "subject": "Thanks", "body": "Don't forget the deadline."}}
