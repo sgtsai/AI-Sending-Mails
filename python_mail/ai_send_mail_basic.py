@@ -77,9 +77,50 @@ if __name__ == "__main__":
 
     # Map receiver name to actual email
     contacts = {
-        "Alice": "stonetsai96@gmail.com",
-        "Me": "stonetsai96@gmail.com"
+        "王士豪": "shyhhau@gmail.com",
+        "郭耀煌": "kuoyh@ismp.csie.ncku.edu.tw",
+        "謝孫源": "hsiehsy@mail.ncku.edu.tw",
+        "連震杰": "jjlien@csie.ncku.edu.tw",
+        "楊中平": "cpyoung@mail.csie.ncku.edu.tw",
+        "梁勝富": "sfliang@mail.ncku.edu.tw",
+        "李同益": "tonylee@mail.ncku.edu.tw",
+        "吳宗憲": "chunghsienwu@gmail.com",
+        "黃崇明": "huangcm@locust.csie.ncku.edu.tw",
+        "陳裕民": "ymchen@mail.ncku.edu.tw",
+        "陳響亮": "slchen@mail.ncku.edu.tw",
+        "蔣榮先": "jchiang@mail.ncku.edu.tw",
+        "陳培殷": "pychen@mail.ncku.edu.tw",
+        "鄭憲宗": "stevecheng1688@gmail.com",
+        "楊大和": "tyang@mail.ncku.edu.tw",
+        "蘇文鈺": "alvinsu@mail.ncku.edu.tw",
+        "張燕光": "ykchang@mail.ncku.edu.tw",
+        "蘇銓清": "suecc@mail.ncku.edu.tw",
+        "蕭宏章": "hchsiao@csie.ncku.edu.tw",
+        "盧文祥": "whlu@mail.ncku.edu.tw",
+        "張大緯": "davidchang@csie.ncku.edu.tw",
+        "藍崑展": "9602016@gs.ncku.edu.tw",
+        "賀保羅": "paulh@iscb.org",
+        "朱威達": "wtchu@gs.ncku.edu.tw",
+        "陳朝鈞": "chencc@imis.ncku.edu.tw",
+        "蔡佩璇": "phtsai@mail.ncku.edu.tw",
+        "洪昌鈺": "horng@mail.csie.ncku.edu.tw",
+        "李政德": "chengte@ncku.edu.tw",
+        "許靜芳": "hsucf@csie.ncku.edu.tw",
+        "吳明龍": "minglong.wu@csie.ncku.edu.tw",
+        "莊坤達": "ktchuang@mail.ncku.edu.tw",
+        "涂嘉恒": "chiaheng@ncku.edu.tw",
+        "陳奇業": "chency@mail.csie.ncku.edu.tw",
+        "曾繁勛": "tsengfh@gs.ncku.edu.tw",
+        "何建忠": "ccho@gs.ncku.edu.tw",
+        "許舒涵": "shhsu@gs.ncku.edu.tw",
+        "詹慧伶": "hlchan@gs.ncku.edu.tw",
+        "謝昀珊": "yshsieh@gs.ncku.edu.tw",
+        "郭紘睿": "hjguo@gs.ncku.edu.tw",
+        "郭軒安": "hsuanankuo@gs.ncku.edu.tw",
+        "李信杰": "jielee@mail.ncku.edu.tw",
+        "張瑞紘": "changrh@ncku.edu.tw"
     }
+
 
     to_address = contacts.get(parsed.get("receiver"))
     if not to_address:
